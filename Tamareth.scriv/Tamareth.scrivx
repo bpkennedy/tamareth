@@ -1,0 +1,1535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="D2C87307-ED7F-4E01-9B8D-89A0BE15C9BC" Version="2.0" Creator="SCRMAC-3.1.4-12105" Device="MacBook-Pro-2" Author="Kennedy, Brian" Modified="2019-10-18 16:39:06 -0500" ModID="2125D636-C6F1-4EF3-8480-15DCB96AEFB4">
+    <Binder>
+        <BinderItem UUID="BF8D845C-9224-4084-9FAD-27B43D3F1CEF" Type="DraftFolder" Created="2010-04-21 08:23:40 -0500" Modified="2010-04-21 08:23:40 -0500">
+            <Title>Draft</Title>
+            <MetaData>
+                <SectionType>904002D8-FC54-41F0-88E3-360B09ECBEF4</SectionType>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentUUIDs>8537315A-D1E7-487D-8F10-2B8862D25556</SelectedSubdocumentUUIDs>
+                <OutlinerExpandedState>
+                    <ItemID>2791A7BB-02CC-477B-8C7F-3ECBF10906A1</ItemID>
+                </OutlinerExpandedState>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem UUID="E67912FB-CCAC-4513-9A69-EA41C2628448" Type="Text" Created="2019-07-06 20:53:34 -0500" Modified="2019-10-18 14:49:42 -0500">
+                    <Title>0 prologue</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>location</FieldID>
+                                <Value>Western Straight off of Galube’i coast</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>secondarycharacters</FieldID>
+                                <Value>Ship crew</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>purpose</FieldID>
+                                <Value>* Promise what is to come in the story via mood, genre, tone
+* Provide some world setting </Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>primarycharacter</FieldID>
+                                <Value>Mysterious character</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>chapter</FieldID>
+                                <Value>0</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>when</FieldID>
+                                <Value>21-07-04 AS</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>duration</FieldID>
+                                <Value>1 week</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>964,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="16052486-E95E-4AF1-9B84-0A8505D7AA2B" Type="Text" Created="2019-07-06 20:53:34 -0500" Modified="2019-10-18 14:51:40 -0500">
+                    <Title>1 just another builder</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>location</FieldID>
+                                <Value>Galube'i</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>summary</FieldID>
+                                <Value>Alokai is coming of age in a relatively quiet island village on the border of the Empire. He was adopted by the island's Master Builder as an orphaned child and learned the trade of drafting and planning the larger buildings and settlements of the island. His father is respected amongst the people (and also a valuable/rare trade) and is given some latitude in engaging in eccentric hobbies like mechanical engineering. While during the day Alokai assists in what he feels is boring drafts of alehouses, inns, town squares, travel road infrastructure, during the evenings he indulges in building mechanical contraptions and sketching conceptual ideas.
+
+He is working on creating what would be the world of Tamareth's first Steam Engine.</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>purpose</FieldID>
+                                <Value>* Introduce Alokai
+* Establish boring life but special engineering skill
+* Show boringness of life
+* Show Alokai building on his own
+* Show Alokai's father being respected</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>primarycharacter</FieldID>
+                                <Value>Alokai</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>secondarycharacters</FieldID>
+                                <Value>Alokai's father</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>chapter</FieldID>
+                                <Value>1</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>when</FieldID>
+                                <Value>21-07-04 AS</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>duration</FieldID>
+                                <Value>1 week</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>18440,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2791A7BB-02CC-477B-8C7F-3ECBF10906A1" Type="Text" Created="2019-07-06 21:04:18 -0500" Modified="2019-10-18 14:53:25 -0500">
+                    <Title>2 salt of tamereth</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>location</FieldID>
+                                <Value>Vahky</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>summary</FieldID>
+                                <Value>Runa is coming of age as a slave in a forced labor unit of the Empire's military that shovels salt onto the conquered fields of its current enemy, the Tunen Kingdom. She had been a part of a Tunen region that was conquered by the Empire when she was a child and has grown into a quiet, distrustful, and hardened worker. A slavemaster with a particular reputation for cruelty, has made her life a living hell, pushing her to perform grueling tasks harder and harder or face cruel discipline.</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>purpose</FieldID>
+                                <Value>* Introduce Runa
+* Show Runa being mistrustful of friends
+* Establish Runa as Cinderella story character (person out of place)
+* Introduce slavemaster as villainous
+* Show magical artifact as birthmark
+* Show Runa unknowingly using her abilities to avoid worst cruelty
+* Show Empire/Tunen conflict</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>primarycharacter</FieldID>
+                                <Value>Runa</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>secondarycharacters</FieldID>
+                                <Value>Slavemaster</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>chapter</FieldID>
+                                <Value>2</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>when</FieldID>
+                                <Value>21-07-04 AS</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>duration</FieldID>
+                                <Value>1 week</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>10259,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="6C11C91F-02F5-48D9-AF1C-4755A6DC97EF" Type="Text" Created="2019-10-18 15:07:52 -0500" Modified="2019-10-18 15:08:41 -0500">
+                    <Title>3 awakening</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>summary</FieldID>
+                                <Value>Alokai uses his steam engine at a job site, and it explodes sending pieces of the magical artifact as shrapnel into his body.  Soon after recovering, he begins feeling connections to magic. He is sometimes able to perceive the roads by which magic travels - lines of connection between living and non-living things.</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>purpose</FieldID>
+                                <Value>* Find the magical artifact
+* Show magical disaster/foreshadowing that provokes journey
+* Show Alokai trying to fulfill his Father's legacy and failing (failed engine)</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>primarycharacter</FieldID>
+                                <Value>Alokai</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>secondarycharacters</FieldID>
+                                <Value>Alokai's father</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>location</FieldID>
+                                <Value>Galube'i
+Talnu Va'nua</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>duration</FieldID>
+                                <Value>1 week</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8537315A-D1E7-487D-8F10-2B8862D25556" Type="Text" Created="2019-10-18 15:02:03 -0500" Modified="2019-10-18 15:07:48 -0500">
+                    <Title>4 two feathers</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>duration</FieldID>
+                                <Value>3 days</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>purpose</FieldID>
+                                <Value>* Introduce featherhound
+* Show magical artifact reacting around featherhound</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>primarycharacter</FieldID>
+                                <Value>Runa</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>secondarycharacters</FieldID>
+                                <Value>Featherhound</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>location</FieldID>
+                                <Value>Vahky</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>summary</FieldID>
+                                <Value>Runa is followed by a featherhound, a not uncommon animal of the Tunen Kingdom, but this one is special - it is particularly interested in her and also it can talk. Another magical artifact is lodged inside the featherhound, and Runa begins to feel magic for the first time as theirs resonate when near each other</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>313,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="FFA8A745-ACE9-451A-92BC-33F3BC183D33" Type="Text" Created="2019-10-18 15:05:03 -0500" Modified="2019-10-18 15:07:42 -0500">
+                    <Title>5 Imperial Court</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>duration</FieldID>
+                                <Value>1 Day</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>purpose</FieldID>
+                                <Value>* Personify the story's shallow antagonist - seemingly eternally aged
+* Make reader hate this character - he is ""the bad guy""
+* Show the Tunen/Empire war conflict and establish stakes
+* Show as a powerful magic user
+* Foreshadow prior relationship with Wainonen
+* Show as secretely insecure
+* At end of scene, show ShadowWalker taking notice of Runa/Featherhound's escape (beacuse it used magic)</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>primarycharacter</FieldID>
+                                <Value>Shadowalker</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>location</FieldID>
+                                <Value>Dalga Mak</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>summary</FieldID>
+                                <Value>ShadowWalker is moving through dreams, probing Tunen soldiers for information on their forces weaknesses, terrifying generals, obsessing over the location of magical artifact fragments, furious at the drawn-out conflict that prevents him from achieving his goals.</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9155809F-931E-43FD-B9AE-EEE93D94597B" Type="Text" Created="2019-10-18 15:06:31 -0500" Modified="2019-10-18 15:07:37 -0500">
+                    <Title>6 the escape</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>summary</FieldID>
+                                <Value>As Runa and the accompanying regiment move further into Tunen territory they face significant pushback from the Tunen forces, she escapes the battle and flees Southwest, towards The Scythe.</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>purpose</FieldID>
+                                <Value>* Establish pursuit dynamic between Runa/Slavemaster
+* Insinuate the psychotic nature of the Slavemaster</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>primarycharacter</FieldID>
+                                <Value>Runa</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>secondarycharacters</FieldID>
+                                <Value>Slavemaster
+Featherhound</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>location</FieldID>
+                                <Value>North of Vahky</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>duration</FieldID>
+                                <Value>1 Day</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="C6468D96-CF50-443C-ADAB-07E724A90E0C" Type="Text" Created="2019-10-18 15:10:19 -0500" Modified="2019-10-18 15:10:54 -0500">
+                    <Title>7 loose paths</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>duration</FieldID>
+                                <Value>1 week</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>purpose</FieldID>
+                                <Value>* Setup the Slavemaster to be a psychotic story-long antagonist
+* Show true villainy through the Slavemaster, as she'll be the sounding board for the reader to view good/bad choices by the Heroes.</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>primarycharacter</FieldID>
+                                <Value>Slavemaster</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>secondarycharacters</FieldID>
+                                <Value>Runa
+Featherhound</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>location</FieldID>
+                                <Value>The Scythe, mountains</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>summary</FieldID>
+                                <Value>The slavemaster pursues Runa over the mountains, ruthlessly treating any passersby and having little care for her own health.  She uses Runa's escape as a justification for her desertion from military duty, and it contributes to her psychopathic view of reality.</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3249C127-C6B5-4270-AAF7-5D0211099186" Type="Text" Created="2019-10-18 15:10:59 -0500" Modified="2019-10-18 15:11:53 -0500">
+                    <Title>8 homeland waters</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>duration</FieldID>
+                                <Value>1 day</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>purpose</FieldID>
+                                <Value>* Introduce Wainonen and show his ulterior agenda
+* Display Wainonen's magical ability, as long-known and controlled
+* Portray his long years traveling the world for his own quest</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>primarycharacter</FieldID>
+                                <Value>Wainonen</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>location</FieldID>
+                                <Value>Sailing from Fa'tika to Galube'i</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>summary</FieldID>
+                                <Value>Wainonen is sailing to the source of the magical blast, and we are listening to his mind.  It is obvious that he has ulterior motives for finding the artifact.
+
+He wants to destroy the Emperor who destroyed his friend from ages past - when the artifact was shattered and they got the largest fragment by chance, declaring themselves Emperor.  He has learned to sense the magic over long years and has been collecting enough pieces to make himself strong enough to confront him.</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="FDD6D1EF-2DE9-4E24-989B-162C412DDF46" Type="Text" Created="2019-10-18 15:12:33 -0500" Modified="2019-10-18 15:13:05 -0500">
+                    <Title>9 cleave</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>summary</FieldID>
+                                <Value>After Wainonen's arrival, a magical tremor sinks a portion of the island. His father dies.</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>purpose</FieldID>
+                                <Value>* Display some nature magic destruction, along with some new creatures
+* Show that the world itself is reacting to magical imbalance
+* Show Wainonen separate from Alokai, adapting/anticipating the magical storm</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>primarycharacter</FieldID>
+                                <Value>Alokai</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>secondarycharacters</FieldID>
+                                <Value>Alokai's father
+Wainonen</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>location</FieldID>
+                                <Value>Galube'i</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>duration</FieldID>
+                                <Value>1 day</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A34BFDA9-0B4E-4CF0-9378-408CBB950FAE" Type="Text" Created="2019-10-18 15:13:19 -0500" Modified="2019-10-18 15:13:44 -0500">
+                    <Title>10 tinker's task</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>summary</FieldID>
+                                <Value>As the village of Galube'i recovers from the magical destruction in fear, Alokai meets Wainonen disguised as an old fisherman.  Alokai is scared and confused of his magical affinities at first, while dealing with his grief.  Wainonen tries to convince him that he needs to set about on a quest to inform the Emperor.  Alokai resists for a time then ultimately acquiesces</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>purpose</FieldID>
+                                <Value>* Show that the artifact ""bonds"" to people that possess it (Alokai) and Wainonen cannot simply take it.
+* Show Wainonen deciding not to machiavellian kill Alokai to take it, simply because it is easier for him to convice Alokai to travel towards his own destination.
+* Show Alokai's ability to disobey his mentor figure sometimes - but is reversability at the same time - set the stage for unreliability
+* Set out on the Hero's Journey</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>primarycharacter</FieldID>
+                                <Value>Alokai</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>secondarycharacters</FieldID>
+                                <Value>Wainonen</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>location</FieldID>
+                                <Value>Galube'i</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>duration</FieldID>
+                                <Value>1 week</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3B749A2B-24DB-48D3-98CF-90AE6DDD5362" Type="Text" Created="2019-10-18 15:13:52 -0500" Modified="2019-10-18 15:14:24 -0500">
+                    <Title>11 dark nights</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>summary</FieldID>
+                                <Value>Runa and the Featherhound learn better how to communicate with each other and to trust each other as they endure the hardships of hunting/foraging for food, defending themselves from vicious creatures, tending to each others' pain.  Runa is learning to let go of her mistrust as her survival depends on it.</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>purpose</FieldID>
+                                <Value>* Show Runa starting to become vulnerable to featherhound
+* Demonstrate the endurance and strength of Runa physically and mentally
+* Develop a deep kinship between Runa and Featherhound</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>primarycharacter</FieldID>
+                                <Value>Runa</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>secondarycharacters</FieldID>
+                                <Value>Featherhound</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>location</FieldID>
+                                <Value>The Scythe, mountains</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>duration</FieldID>
+                                <Value>1 week</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="F2B451CD-9825-4D90-A23C-33B3F8295F24" Type="ResearchFolder" Created="2010-04-21 08:23:40 -0500" Modified="2010-04-21 08:23:40 -0500">
+            <Title>Research</Title>
+            <MetaData>
+                <SectionType>904002D8-FC54-41F0-88E3-360B09ECBEF4</SectionType>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="5FCD2B50-6396-4183-8B70-77B6CEA255E5" Type="Folder" Created="2010-04-21 08:24:37 -0500" Modified="2012-11-20 02:07:12 -0600">
+                    <Title>Characters</Title>
+                    <MetaData>
+                        <SectionType>904002D8-FC54-41F0-88E3-360B09ECBEF4</SectionType>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IconFileName>Characters (Mask)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>973AD5E9-A7D5-4ADA-9458-134CDDCDF2BE</SelectedSubdocumentUUIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem UUID="973AD5E9-A7D5-4ADA-9458-134CDDCDF2BE" Type="Text" Created="2019-07-06 21:47:53 -0500" Modified="2019-10-18 16:15:34 -0500">
+                            <Title>Alokai_Synopsis</Title>
+                            <MetaData>
+                                <LabelID>10</LabelID>
+                                <StatusID>1</StatusID>
+                                <NotesTextSelection>0,198</NotesTextSelection>
+                                <IconFileName>Notes (White Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>419,0</TextSelection>
+                                <Target Type="Words" Notify="Yes">600</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="FDC764AD-FF8E-41DC-8F24-B7769FFB3510" Type="Text" Created="2019-07-06 21:48:25 -0500" Modified="2019-10-18 16:16:26 -0500">
+                            <Title>Featherhound_Synopsis</Title>
+                            <MetaData>
+                                <LabelID>10</LabelID>
+                                <StatusID>1</StatusID>
+                                <NotesTextSelection>0,198</NotesTextSelection>
+                                <IconFileName>Notes (White Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>802,0</TextSelection>
+                                <Target Type="Words" Notify="Yes">600</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="AE8FB389-D8FD-4774-BE98-83193766DB7B" Type="Text" Created="2019-07-06 21:50:07 -0500" Modified="2019-07-06 21:50:54 -0500">
+                            <Title>Wainon_Synopsis</Title>
+                            <MetaData>
+                                <LabelID>10</LabelID>
+                                <StatusID>1</StatusID>
+                                <NotesTextSelection>0,198</NotesTextSelection>
+                                <IconFileName>Notes (White Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>459,0</TextSelection>
+                                <Target Type="Words" Notify="Yes">600</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="0F4AA525-607E-4210-9619-C186C498DDBB" Type="Text" Created="2019-07-06 21:52:12 -0500" Modified="2019-10-18 16:17:25 -0500">
+                            <Title>Runa_Synopsis</Title>
+                            <MetaData>
+                                <LabelID>10</LabelID>
+                                <StatusID>1</StatusID>
+                                <NotesTextSelection>0,198</NotesTextSelection>
+                                <IconFileName>Notes (White Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>4924,0</TextSelection>
+                                <Target Type="Words" Notify="Yes">600</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E9111B1B-2724-40AC-B6A0-235628E39D52" Type="Text" Created="2019-07-06 21:52:39 -0500" Modified="2019-10-18 16:18:07 -0500">
+                            <Title>Slavemaster_Synopsis</Title>
+                            <MetaData>
+                                <LabelID>10</LabelID>
+                                <StatusID>1</StatusID>
+                                <NotesTextSelection>0,198</NotesTextSelection>
+                                <IconFileName>Notes (White Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1440,0</TextSelection>
+                                <Target Type="Words" Notify="Yes">600</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="01C7A429-F3AB-4F6D-93FB-BED3D47B0FDF" Type="Text" Created="2019-10-18 16:15:48 -0500" Modified="2019-10-18 16:16:03 -0500">
+                            <Title>Emperor_Synopsis</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>938,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="97771251-AF58-411C-A149-4E8183D40690" Type="Text" Created="2012-11-21 16:26:20 -0600" Modified="2019-10-18 16:19:16 -0500">
+                    <Title>Tamareth (World)</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <StatusID>1</StatusID>
+                        <NotesTextSelection>0,183</NotesTextSelection>
+                        <IconFileName>Planets (Blue planet).tif</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1687,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="957D6B8A-CA99-4F63-80E3-36EF754730BC" Destination="[Internal Link]">Planetary classifications</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="26C321AB-BE58-489E-AEF6-9D6CEA19BA46" Type="Folder" Created="2010-04-21 08:27:17 -0500" Modified="2012-02-12 11:42:50 -0600">
+            <Title>Tasks</Title>
+            <MetaData>
+                <SectionType>904002D8-FC54-41F0-88E3-360B09ECBEF4</SectionType>
+                <LabelID>7</LabelID>
+                <StatusID>1</StatusID>
+                <IconFileName>Information</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="B1C024DB-0D52-432E-81ED-2620CEBB3120" Type="Text" Created="2010-04-21 08:27:43 -0500" Modified="2019-10-18 16:22:23 -0500">
+                    <Title>A Single sentence</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>211,0</NotesTextSelection>
+                        <IconFileName>To Do (Ticked)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>108,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="74E2C4B6-0DAC-414C-BA9F-5099ACADBD57" Type="Text" Created="2010-04-21 08:27:44 -0500" Modified="2019-10-18 16:22:19 -0500">
+                    <Title>Synopsis/Long Paragraph</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>1020,0</NotesTextSelection>
+                        <IconFileName>To Do (Ticked)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>472,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="40BB676A-6808-4970-9098-A19FC540CDFE" Type="Text" Created="2019-07-06 21:56:25 -0500" Modified="2019-10-18 16:20:53 -0500">
+                    <Title>PayoffMoments</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1864,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2DE45F80-2DAB-4E1D-AAC7-B65D3D84B93D" Type="Text" Created="2019-10-18 16:21:07 -0500" Modified="2019-10-18 16:21:16 -0500">
+                    <Title>Questions</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1087,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="A359ABDE-AC1E-45B0-9845-24E692BBA6BE" Type="Folder" Created="2012-12-24 00:48:58 -0600" Modified="2019-07-06 21:13:45 -0500">
+            <Title>Printables</Title>
+            <MetaData>
+                <LabelID>0</LabelID>
+                <StatusID>0</StatusID>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Front Matter</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="E1FB19AD-A888-4AD4-9FA1-D933BB7BABAF" Type="Image" Created="2019-06-04 23:55:31 -0500" Modified="2019-06-05 22:24:29 -0500">
+                    <Title>Tamereth</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>png</FileExtension>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                    </MetaData>
+                    <MediaSettings>
+                        <ImageScaleFactor>0.56</ImageScaleFactor>
+                        <ImageRotation>None</ImageRotation>
+                        <ImageScalesProportionally>No</ImageScalesProportionally>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="94B6DBE8-A5EF-4359-9641-8EC6F3C10E7B" Type="TrashFolder" Created="2010-04-21 08:23:40 -0500" Modified="2010-04-21 08:23:40 -0500">
+            <Title>Trash</Title>
+            <MetaData>
+                <SectionType>904002D8-FC54-41F0-88E3-360B09ECBEF4</SectionType>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="804FC27F-55EB-4F3D-80E3-CAE4B07D949F" Type="Folder" Created="2011-09-28 07:12:44 -0500" Modified="2011-09-28 07:13:41 -0500">
+                    <Title>Ideas</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Light Bulb</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="A5F41FCD-2E51-4193-9F05-8AE5F5175A7E" Type="Text" Created="2011-09-28 07:13:43 -0500" Modified="2011-09-28 07:13:51 -0500">
+                            <Title>Basic plan</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Thought Bubble</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="68F7E0D0-DC09-4031-87BD-58176978E78D" Type="Folder" Created="2019-07-05 18:59:27 -0500" Modified="2019-07-05 18:59:27 -0500">
+                    <Title>Project Notes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="F4891C7A-B413-43F0-83BC-B8D8E6ADC040" Type="Text" Created="2019-07-05 18:59:27 -0500" Modified="2019-07-05 18:59:27 -0500">
+                            <Title>General</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="E96BB522-F0CA-41B8-97ED-924CD3F3F1AD" Type="Text" Created="2019-07-05 18:59:27 -0500" Modified="2019-07-05 18:59:27 -0500">
+                            <Title>Acknowledgments</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="EDB126F2-D5E1-4F00-8DA4-8489C9C1DB58" Type="Folder" Created="2010-04-21 09:15:22 -0500" Modified="2010-04-21 09:27:22 -0500">
+                    <Title>Chapter</Title>
+                    <MetaData>
+                        <SectionType>904002D8-FC54-41F0-88E3-360B09ECBEF4</SectionType>
+                        <LabelID>2</LabelID>
+                        <StatusID>1</StatusID>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F3ED1C1F-39D5-4B52-A90D-BEBC375EE127" Type="Text" Created="2010-04-21 08:23:40 -0500" Modified="2019-07-06 20:38:30 -0500">
+                    <Title>Scene</Title>
+                    <MetaData>
+                        <LabelID>4</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B19A8363-B447-462B-935E-3BA48D15D367" Type="Text" Created="2019-07-06 20:38:41 -0500" Modified="2019-07-06 20:39:05 -0500">
+                    <Title>Scene1</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>311,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9A7448FA-8878-40A8-BBF7-6EC18F1A8251" Type="Text" Created="2019-07-06 20:42:42 -0500" Modified="2019-07-06 20:42:54 -0500">
+                    <Title>Beginnings</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>30,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="108E2923-05E8-4DBD-BD5B-0EF2814EAEBD" Type="Text" Created="2019-07-06 20:45:45 -0500" Modified="2019-07-06 20:45:45 -0500">
+                    <Title>Disease</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <NotesTextSelection>145,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1106,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark Destination="http://en.wikipedia.org/wiki/Government">Wikipedia - Government</Bookmark>
+                        <Bookmark Destination="http://stutzfamily.com/mrstutz/WorldAffairs/typesofgovt.html">Types of government</Bookmark>
+                        <Bookmark Destination="http://dspace.dial.pipex.com/town/street/pl38/sect2.htm">Political systems explained</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="59BB7F2D-BE82-4023-A465-469B3C5E08DD" Type="Text" Created="2019-07-06 20:44:10 -0500" Modified="2019-07-06 20:46:10 -0500">
+                    <Title>Scene</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Notes (White Notepad)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="213F31CC-8A39-494D-8E86-BEF46EAAD07D" Type="Text" Created="2012-11-19 15:37:40 -0600" Modified="2012-12-26 15:56:23 -0600">
+                    <Title>Disease</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <NotesTextSelection>145,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1106,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark Destination="http://en.wikipedia.org/wiki/Government">Wikipedia - Government</Bookmark>
+                        <Bookmark Destination="http://stutzfamily.com/mrstutz/WorldAffairs/typesofgovt.html">Types of government</Bookmark>
+                        <Bookmark Destination="http://dspace.dial.pipex.com/town/street/pl38/sect2.htm">Political systems explained</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="C07CB74F-0CC5-4FBA-AD69-7DFEA435ED72" Type="Text" Created="2012-11-19 15:37:40 -0600" Modified="2012-12-26 15:56:23 -0600">
+                    <Title>Vehicle</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <NotesTextSelection>145,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>435,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark Destination="http://en.wikipedia.org/wiki/Government">Wikipedia - Government</Bookmark>
+                        <Bookmark Destination="http://stutzfamily.com/mrstutz/WorldAffairs/typesofgovt.html">Types of government</Bookmark>
+                        <Bookmark Destination="http://dspace.dial.pipex.com/town/street/pl38/sect2.htm">Political systems explained</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="605B5382-210C-4F2E-8DD0-9D6BEAAFAF0D" Type="Text" Created="2012-11-19 15:37:40 -0600" Modified="2012-12-26 15:57:42 -0600">
+                    <Title>Species</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <NotesTextSelection>171,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>8184,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark Destination="http://en.wikipedia.org/wiki/Government">Wikipedia - Government</Bookmark>
+                        <Bookmark Destination="http://stutzfamily.com/mrstutz/WorldAffairs/typesofgovt.html">Types of government</Bookmark>
+                        <Bookmark Destination="http://dspace.dial.pipex.com/town/street/pl38/sect2.htm">Political systems explained</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="4970639D-3C39-4DAF-9A89-83CAFD02FEBE" Type="Text" Created="2012-11-19 15:37:40 -0600" Modified="2012-12-26 15:57:28 -0600">
+                    <Title>Weapon</Title>
+                    <MetaData>
+                        <StatusID>1</StatusID>
+                        <NotesTextSelection>145,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1305,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark Destination="http://en.wikipedia.org/wiki/Government">Wikipedia - Government</Bookmark>
+                        <Bookmark Destination="http://stutzfamily.com/mrstutz/WorldAffairs/typesofgovt.html">Types of government</Bookmark>
+                        <Bookmark Destination="http://dspace.dial.pipex.com/town/street/pl38/sect2.htm">Political systems explained</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="F755B64E-D612-4ABB-B3D7-791B2BC7AAD7" Type="Text" Created="2012-11-19 15:37:40 -0600" Modified="2012-12-26 15:57:28 -0600">
+                    <Title>Major event</Title>
+                    <MetaData>
+                        <LabelID>9</LabelID>
+                        <StatusID>1</StatusID>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>351,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark Destination="http://en.wikipedia.org/wiki/Government">Wikipedia - Government</Bookmark>
+                        <Bookmark Destination="http://stutzfamily.com/mrstutz/WorldAffairs/typesofgovt.html">Types of government</Bookmark>
+                        <Bookmark Destination="http://dspace.dial.pipex.com/town/street/pl38/sect2.htm">Political systems explained</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="78370F3D-AB1C-4EC0-B276-C8B6A1256155" Type="Text" Created="2012-11-19 17:36:54 -0600" Modified="2012-11-21 18:41:37 -0600">
+                    <Title>Planet</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <StatusID>1</StatusID>
+                        <NotesTextSelection>0,186</NotesTextSelection>
+                        <IconFileName>Planets (Blue planet).tif</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>287,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="957D6B8A-CA99-4F63-80E3-36EF754730BC" Destination="[Internal Link]">Planetary classifications</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="965D903A-0D9F-4A6C-9F18-0DB0D3FEC7DD" Type="Text" Created="2012-11-19 15:37:40 -0600" Modified="2012-11-21 16:13:20 -0600">
+                    <Title>Interstellar nation</Title>
+                    <MetaData>
+                        <LabelID>5</LabelID>
+                        <StatusID>1</StatusID>
+                        <NotesTextSelection>183,0</NotesTextSelection>
+                        <IconFileName>Shields (Green shield).tif</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>667,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark Destination="http://en.wikipedia.org/wiki/Government">Wikipedia - Government</Bookmark>
+                        <Bookmark Destination="http://stutzfamily.com/mrstutz/WorldAffairs/typesofgovt.html">Types of government</Bookmark>
+                        <Bookmark Destination="http://dspace.dial.pipex.com/town/street/pl38/sect2.htm">Political systems explained</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="957D6B8A-CA99-4F63-80E3-36EF754730BC" Type="Text" Created="2012-11-19 18:08:55 -0600" Modified="2012-11-21 18:53:55 -0600">
+                    <Title>Planetary classifications</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>135,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>44,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark Destination="http://en.wikipedia.org/wiki/Class_M_planet">Star Trek planetary classes</Bookmark>
+                        <Bookmark BinderUUID="78370F3D-AB1C-4EC0-B276-C8B6A1256155" Destination="[Internal Link]">Planet</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="AF3D1DD3-BC2C-4FA9-82C4-E69DC4919059" Type="PDF" Created="2012-12-24 00:45:09 -0600" Modified="2012-12-24 00:54:00 -0600">
+                    <Title>Foodchain Worksheet</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                    <Bookmarks>
+                        <Bookmark Destination="http://www.elfwood.com/farp/thewriting/liljenbergworlds/">Creating Fantasy and Science Fiction Worlds</Bookmark>
+                        <Bookmark Destination="http://www.elfwood.com/farp/thewriting/liljenbergworlds/foodchain.pdf">PDF source</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="CBB1CA11-1703-4EF9-AD37-9E94BAB33E93" Type="PDF" Created="2012-12-24 00:44:11 -0600" Modified="2012-12-24 00:52:58 -0600">
+                    <Title>Planet Worksheet</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                    <Bookmarks>
+                        <Bookmark Destination="http://www.elfwood.com/farp/thewriting/liljenbergworlds/">Creating Fantasy and Science Fiction Worlds</Bookmark>
+                        <Bookmark Destination="http://www.elfwood.com/farp/thewriting/liljenbergworlds/planetworksheet.pdf">PDF source</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="85CD3D6D-0232-4E2B-B65A-291D37714497" Type="PDF" Created="2012-12-24 00:45:26 -0600" Modified="2012-12-24 00:54:30 -0600">
+                    <Title>Civilization Worksheet</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                    <Bookmarks>
+                        <Bookmark Destination="http://www.elfwood.com/farp/thewriting/liljenbergworlds/">Creating Fantasy and Science Fiction Worlds</Bookmark>
+                        <Bookmark Destination="http://www.elfwood.com/farp/thewriting/liljenbergworlds/civilizationworksheet.pdf">PDF source</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="FC9E88C4-C02F-445B-9109-D475F07165BD" Type="Folder" Created="2012-11-21 22:11:36 -0600" Modified="2012-11-21 22:11:43 -0600">
+                    <Title>Deleted scenes</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Deleted scenes.png</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="898C4C56-A738-423E-B628-93AB13F5AC2E" Type="Folder" Created="2012-11-19 18:17:17 -0600" Modified="2012-11-19 18:17:23 -0600">
+                    <Title>References</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Blackboard</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="8EB0408D-FD91-45CD-9E80-8376A22052F3" Type="Text" Created="2012-11-21 23:18:25 -0600" Modified="2012-12-24 01:08:33 -0600">
+                    <Title>Template to do list</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>To Do (Ticked)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>208,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="9B4990B0-CF6D-436A-818D-AC5474B8B16E" Type="Text" Created="2012-11-21 16:50:30 -0600" Modified="2012-12-26 14:37:34 -0600">
+                    <Title>Template notes</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Notes (Blue Notepad)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>226,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="64A3C8E8-D532-4C4B-9CF0-D8020698199A" Type="Text" Created="2012-11-21 16:30:08 -0600" Modified="2012-12-24 01:18:07 -0600">
+                    <Title>Acknowledgments</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IconFileName>Reviewer Comments</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1092,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="44E17DC5-461E-4AC4-AB0A-C32B6F99F138" Type="Folder" Created="2012-11-19 22:14:02 -0600" Modified="2012-11-20 02:09:23 -0600">
+                    <Title>Major events</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Way-Station (Blue Way-Station)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="6D9D0013-9008-4B68-97BE-3ADCA9CC45D1" Type="Text" Created="2019-07-06 21:25:12 -0500" Modified="2019-07-06 21:25:22 -0500">
+                    <Title>test</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>24,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="3893E7C9-5135-4B61-AEF1-2433BE4CAF32" Type="Text" Created="2012-11-21 18:58:25 -0600" Modified="2019-07-06 21:45:23 -0500">
+                    <Title>Alokai</Title>
+                    <MetaData>
+                        <LabelID>5</LabelID>
+                        <StatusID>1</StatusID>
+                        <IconFileName>Characters (Photo)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>250,0</TextSelection>
+                    </TextSettings>
+                    <DefaultChildTemplateUUID>B6E82B11-DF8F-4AEF-AC49-3B24FB9DE73C</DefaultChildTemplateUUID>
+                    <Children>
+                        <BinderItem UUID="94CB0E39-A08D-431D-BFB1-EA936FB7075A" Type="Text" Created="2012-11-21 18:58:25 -0600" Modified="2019-07-06 21:47:03 -0500">
+                            <Title>Alokai_Synopsis</Title>
+                            <MetaData>
+                                <LabelID>10</LabelID>
+                                <StatusID>1</StatusID>
+                                <NotesTextSelection>198,0</NotesTextSelection>
+                                <IconFileName>Notes (White Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,5006</TextSelection>
+                                <Target Type="Words" Notify="Yes">600</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="18498918-F11E-407B-9F57-E2BE0AC1371A" Type="Text" Created="2019-07-06 21:48:58 -0500" Modified="2019-07-06 21:49:49 -0500">
+                    <Title>Wainon</Title>
+                    <MetaData>
+                        <LabelID>10</LabelID>
+                        <StatusID>1</StatusID>
+                        <NotesTextSelection>0,198</NotesTextSelection>
+                        <IconFileName>Notes (White Notepad)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,909</TextSelection>
+                        <Target Type="Words" Notify="Yes">600</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="F15F539B-DC4C-49E0-BFF0-403A7B8B5078" Type="Text" Created="2019-10-18 15:01:03 -0500" Modified="2019-10-18 15:01:12 -0500">
+                    <Title>3 two feathers</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="E368EC36-7B02-4C0E-BECB-D5414D25EA2A" Type="Text" Created="2010-04-21 08:27:44 -0500" Modified="2012-11-28 23:15:30 -0600">
+                    <Title>03 - Characters</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>411,387</NotesTextSelection>
+                        <IconFileName>To Do (Ticked)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D7580258-2E01-4E47-95F1-E40689339325" Type="Text" Created="2010-04-21 08:29:42 -0500" Modified="2012-11-18 05:18:42 -0600">
+                    <Title>05 - Character synopses</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>594,0</NotesTextSelection>
+                        <IconFileName>To Do (Ticked)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DE337160-A4AB-433B-88DF-5D9D618BE1EA" Type="Text" Created="2010-04-21 08:27:44 -0500" Modified="2012-11-21 16:24:42 -0600">
+                    <Title>04 - Expand the synopsis</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>949,0</NotesTextSelection>
+                        <IconFileName>To Do (Ticked)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="22FC276E-2275-497F-B37B-F06EED47C3A4" Type="Text" Created="2010-04-21 08:27:44 -0500" Modified="2012-11-18 05:18:55 -0600">
+                    <Title>06 - Four-page synopsis</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>537,0</NotesTextSelection>
+                        <IconFileName>To Do (Ticked)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="2B0F857A-EC65-41DD-BB90-EFAC600ED367" Type="Text" Created="2010-04-21 08:30:11 -0500" Modified="2012-11-18 05:19:24 -0600">
+                    <Title>07 - Character charts</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>1144,0</NotesTextSelection>
+                        <IconFileName>To Do (Ticked)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="DDCC5ECC-607A-4DE5-BCC3-2BC635578C30" Type="Text" Created="2010-04-21 08:27:44 -0500" Modified="2012-11-18 05:20:18 -0600">
+                    <Title>08 - Outline</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>1703,0</NotesTextSelection>
+                        <IconFileName>To Do (Ticked)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="93D80BAB-01CC-4DC2-909A-3739F707DB62" Type="Text" Created="2010-04-21 08:27:44 -0500" Modified="2012-11-18 05:20:04 -0600">
+                    <Title>09 - Narrative description</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>1481,0</NotesTextSelection>
+                        <IconFileName>To Do (Ticked)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A9F22707-1311-4AEA-8BDC-B2356551C55A" Type="Text" Created="2012-11-18 05:53:39 -0600" Modified="2019-07-06 21:36:08 -0500">
+                    <Title>10 - Write that good book!</Title>
+                    <MetaData>
+                        <LabelID>7</LabelID>
+                        <StatusID>1</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>To Do (Ticked)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="99AFEC00-B63B-4A36-9CF6-EB301037DA12" Type="Text" Created="2010-04-21 08:34:44 -0500" Modified="2019-07-06 21:36:08 -0500">
+                    <Title>Character profile</Title>
+                    <MetaData>
+                        <LabelID>5</LabelID>
+                        <StatusID>1</StatusID>
+                        <IconFileName>Characters (Photo)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>560,181</TextSelection>
+                    </TextSettings>
+                    <DefaultChildTemplateUUID>B6E82B11-DF8F-4AEF-AC49-3B24FB9DE73C</DefaultChildTemplateUUID>
+                    <Children>
+                        <BinderItem UUID="B6E82B11-DF8F-4AEF-AC49-3B24FB9DE73C" Type="Text" Created="2012-11-20 01:44:42 -0600" Modified="2012-11-21 16:05:12 -0600">
+                            <Title>Synopsis</Title>
+                            <MetaData>
+                                <LabelID>10</LabelID>
+                                <StatusID>1</StatusID>
+                                <NotesTextSelection>0,198</NotesTextSelection>
+                                <IconFileName>Notes (White Notepad)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                                <Target Type="Words" Notify="Yes">600</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="9ABF3333-1329-44B8-AE8F-311F3D94634C" Type="Text" Created="2012-11-19 15:37:40 -0600" Modified="2019-07-06 21:36:08 -0500">
+                    <Title>Nation</Title>
+                    <MetaData>
+                        <LabelID>5</LabelID>
+                        <StatusID>1</StatusID>
+                        <NotesTextSelection>0,145</NotesTextSelection>
+                        <IconFileName>Shields (Green shield).tif</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>689,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark Destination="http://en.wikipedia.org/wiki/Government">Wikipedia - Government</Bookmark>
+                        <Bookmark Destination="http://stutzfamily.com/mrstutz/WorldAffairs/typesofgovt.html">Types of government</Bookmark>
+                        <Bookmark Destination="http://dspace.dial.pipex.com/town/street/pl38/sect2.htm">Political systems explained</Bookmark>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="1CA6713D-5E75-4CFA-ABF9-13AE2D2562BB" Type="Text" Created="2012-11-20 02:33:31 -0600" Modified="2012-11-21 17:30:38 -0600">
+                    <Title>Location</Title>
+                    <MetaData>
+                        <LabelID>6</LabelID>
+                        <StatusID>1</StatusID>
+                        <IconFileName>Locations (Location Sheet)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>92,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="48FE6035-EDAE-4650-B6FE-F2E0FD767457" Type="Folder" Created="2012-11-18 20:40:10 -0600" Modified="2012-11-18 20:40:16 -0600">
+                    <Title>Templates</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="FEFA1D0E-E805-4504-96CB-A76E8340C0F4" Type="Text" Created="2019-07-06 20:48:40 -0500" Modified="2019-07-06 20:52:15 -0500">
+                            <Title>Scene</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="F1C7D2DE-41F7-46FA-8410-89EBCCA2A89B" Type="Folder" Created="2012-11-19 15:03:53 -0600" Modified="2012-11-21 15:15:04 -0600">
+                    <Title>Groups &amp; factions</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <IconFileName>Shields (Shield and swords).tif</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="19850FC3-05E1-409C-A273-8270E2F7499A" Type="Text" Created="2012-11-21 16:26:04 -0600" Modified="2012-11-21 16:26:04 -0600">
+                            <Title>Nation</Title>
+                            <MetaData>
+                                <LabelID>5</LabelID>
+                                <StatusID>1</StatusID>
+                                <NotesTextSelection>0,145</NotesTextSelection>
+                                <IconFileName>Shields (Green shield).tif</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>2777,0</TextSelection>
+                            </TextSettings>
+                            <Bookmarks>
+                                <Bookmark Destination="http://en.wikipedia.org/wiki/Government">Wikipedia - Government</Bookmark>
+                                <Bookmark Destination="http://stutzfamily.com/mrstutz/WorldAffairs/typesofgovt.html">Types of government</Bookmark>
+                                <Bookmark Destination="http://dspace.dial.pipex.com/town/street/pl38/sect2.htm">Political systems explained</Bookmark>
+                            </Bookmarks>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="B6F73A55-5A38-4DD1-A8E2-C3C5C0A703E5" Type="Folder" Created="2010-04-21 08:24:49 -0500" Modified="2012-11-20 02:11:20 -0600">
+                    <Title>Locations</Title>
+                    <MetaData>
+                        <SectionType>904002D8-FC54-41F0-88E3-360B09ECBEF4</SectionType>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IconFileName>Locations (Map)</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="9598D42D-977B-4F57-9A19-03E817EF23A4" Type="Text" Created="2010-04-21 08:37:24 -0500" Modified="2019-07-06 21:36:08 -0500">
+                            <Title>Location</Title>
+                            <MetaData>
+                                <LabelID>6</LabelID>
+                                <StatusID>1</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <IconFileName>Locations (Location Sheet)</IconFileName>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="1E7BE2DB-6C2F-4BAB-BB04-92F21F54AE6F" Color="0.015924 0.126521 0.159696">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="AF2ED59A-A1DA-4453-BC43-63F6FE5282A2" Color="0.084464 0.183137 0.21437">
+            <Title>Search Results</Title>
+        </Collection>
+        <Collection Type="Arbitrary" ID="DBCAA5F2-6DEF-4B79-B5CC-A3E793B8B73A" Color="0.992 0.973 0.769">
+            <Title>Updated Documents</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="B4E1847B-7806-47DA-B687-77E3EBBDEDD0">Heading</Type>
+            <Type ID="93B13A82-F0C0-4886-AF7D-9AD82F53F9DF">Sub-Heading</Type>
+            <Type ID="53FDCF8C-EF27-4169-91E2-BFA3639A2D86">Section</Type>
+            <Type ID="904002D8-FC54-41F0-88E3-360B09ECBEF4">Section Start</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>B4E1847B-7806-47DA-B687-77E3EBBDEDD0</Type>
+            </Folders>
+            <Containers>
+                <Type>53FDCF8C-EF27-4169-91E2-BFA3639A2D86</Type>
+            </Containers>
+            <Files>
+                <Type>53FDCF8C-EF27-4169-91E2-BFA3639A2D86</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>0</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="1.0 1.0 1.0">No Label</Label>
+            <Label ID="1" Color="0.956689 0.0 1.0">Concept</Label>
+            <Label ID="10" Color="0.43487 0.500315 0.28001">Synopsis</Label>
+            <Label ID="2" Color="0.019077 0.428816 1.0">Chapter</Label>
+            <Label ID="3" Color="0.224536 1.0 0.0">Page</Label>
+            <Label ID="4" Color="0.976186 1.0 0.0">Scene</Label>
+            <Label ID="5" Color="0.981356 0.491722 0.0">Character</Label>
+            <Label ID="9" Color="1.0 0.8 0.4">Event</Label>
+            <Label ID="6" Color="0.956556 0.0 0.0">Locations</Label>
+            <Label ID="7" Color="0.398824 0.398897 0.398799">Task</Label>
+            <Label ID="8" Color="0.793587 0.811491 0.816625">Research</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>0</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <CustomMetaDataSettings>
+        <MetaDataField ID="chapter" Type="Text" Wraps="No" Align="Left">
+            <Title>Chapter</Title>
+        </MetaDataField>
+        <MetaDataField ID="when" Type="Text" Wraps="No" Align="Left">
+            <Title>When</Title>
+        </MetaDataField>
+        <MetaDataField ID="duration" Type="Text" Wraps="No" Align="Left">
+            <Title>Duration</Title>
+        </MetaDataField>
+        <MetaDataField ID="location" Type="Text" Wraps="Yes" Align="Left">
+            <Title>Location</Title>
+        </MetaDataField>
+        <MetaDataField ID="primarycharacter" Type="Text" Wraps="Yes" Align="Left">
+            <Title>PrimaryCharacter</Title>
+        </MetaDataField>
+        <MetaDataField ID="secondarycharacters" Type="Text" Wraps="Yes" Align="Left">
+            <Title>SecondaryCharacters</Title>
+        </MetaDataField>
+        <MetaDataField ID="purpose" Type="Text" Wraps="Yes" Align="Left">
+            <Title>Purpose</Title>
+        </MetaDataField>
+        <MetaDataField ID="summary" Type="Text" Wraps="Yes" Align="Left">
+            <Title>Summary</Title>
+        </MetaDataField>
+    </CustomMetaDataSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-09-28 07:03:24 -0500" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-10-19 01:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="6354" Characters="35227" Date="2019-10-18 16:38:48 -0500"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2019-10-18 00:00:00 -0500">
+        <DraftWordCount>6354</DraftWordCount>
+        <DraftCharCount>35227</DraftCharCount>
+        <OtherWordCount>616</OtherWordCount>
+        <OtherCharCount>3381</OtherCharCount>
+    </RecentWritingHistory>
+    <TemplateFolderUUID>48FE6035-EDAE-4650-B6FE-F2E0FD767457</TemplateFolderUUID>
+    <BookmarksFolderUUID>68F7E0D0-DC09-4031-87BD-58176978E78D</BookmarksFolderUUID>
+    <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <ExternalSyncMap>
+        <SyncItem ID="9ABF3333-1329-44B8-AE8F-311F3D94634C">26</SyncItem>
+        <SyncItem ID="19850FC3-05E1-409C-A273-8270E2F7499A">6</SyncItem>
+        <SyncItem ID="B1C024DB-0D52-432E-81ED-2620CEBB3120">11</SyncItem>
+        <SyncItem ID="0F4AA525-607E-4210-9619-C186C498DDBB">31</SyncItem>
+        <SyncItem ID="40BB676A-6808-4970-9098-A19FC540CDFE">33</SyncItem>
+        <SyncItem ID="2B0F857A-EC65-41DD-BB90-EFAC600ED367">17</SyncItem>
+        <SyncItem ID="5FCD2B50-6396-4183-8B70-77B6CEA255E5">2</SyncItem>
+        <SyncItem ID="94CB0E39-A08D-431D-BFB1-EA936FB7075A">4</SyncItem>
+        <SyncItem ID="B6E82B11-DF8F-4AEF-AC49-3B24FB9DE73C">25</SyncItem>
+        <SyncItem ID="E9111B1B-2724-40AC-B6A0-235628E39D52">32</SyncItem>
+        <SyncItem ID="2791A7BB-02CC-477B-8C7F-3ECBF10906A1">1</SyncItem>
+        <SyncItem ID="E368EC36-7B02-4C0E-BECB-D5414D25EA2A">13</SyncItem>
+        <SyncItem ID="9598D42D-977B-4F57-9A19-03E817EF23A4">8</SyncItem>
+        <SyncItem ID="74E2C4B6-0DAC-414C-BA9F-5099ACADBD57">12</SyncItem>
+        <SyncItem ID="DDCC5ECC-607A-4DE5-BCC3-2BC635578C30">18</SyncItem>
+        <SyncItem ID="FEFA1D0E-E805-4504-96CB-A76E8340C0F4">22</SyncItem>
+        <SyncItem ID="97771251-AF58-411C-A149-4E8183D40690">9</SyncItem>
+        <SyncItem ID="26C321AB-BE58-489E-AEF6-9D6CEA19BA46">10</SyncItem>
+        <SyncItem ID="3893E7C9-5135-4B61-AEF1-2433BE4CAF32">3</SyncItem>
+        <SyncItem ID="1CA6713D-5E75-4CFA-ABF9-13AE2D2562BB">23</SyncItem>
+        <SyncItem ID="D7580258-2E01-4E47-95F1-E40689339325">14</SyncItem>
+        <SyncItem ID="AE8FB389-D8FD-4774-BE98-83193766DB7B">30</SyncItem>
+        <SyncItem ID="F1C7D2DE-41F7-46FA-8410-89EBCCA2A89B">5</SyncItem>
+        <SyncItem ID="973AD5E9-A7D5-4ADA-9458-134CDDCDF2BE">28</SyncItem>
+        <SyncItem ID="48FE6035-EDAE-4650-B6FE-F2E0FD767457">21</SyncItem>
+        <SyncItem ID="FDC764AD-FF8E-41DC-8F24-B7769FFB3510">29</SyncItem>
+        <SyncItem ID="93D80BAB-01CC-4DC2-909A-3739F707DB62">19</SyncItem>
+        <SyncItem ID="A359ABDE-AC1E-45B0-9845-24E692BBA6BE">27</SyncItem>
+        <SyncItem ID="99AFEC00-B63B-4A36-9CF6-EB301037DA12">24</SyncItem>
+        <SyncItem ID="22FC276E-2275-497F-B37B-F06EED47C3A4">16</SyncItem>
+        <SyncItem ID="DE337160-A4AB-433B-88DF-5D9D618BE1EA">15</SyncItem>
+        <SyncItem ID="E67912FB-CCAC-4513-9A69-EA41C2628448">0</SyncItem>
+        <SyncItem ID="B6F73A55-5A38-4DD1-A8E2-C3C5C0A703E5">7</SyncItem>
+        <SyncItem ID="A9F22707-1311-4AEA-8BDC-B2356551C55A">20</SyncItem>
+    </ExternalSyncMap>
+</ScrivenerProject>

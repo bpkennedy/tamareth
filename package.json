@@ -1,0 +1,10 @@
+{
+  "name": "tamareth",
+  "version": "1.0.1",
+  "author": "Brian Kennedy <bpkennedy@gmail.com>",
+  "license": "unlicensed",
+  "scripts": {
+    "postinstall": "./installWonderdraftResources.sh",
+    "deploy": "./installWonderdraftResources.sh"
+  }
+}

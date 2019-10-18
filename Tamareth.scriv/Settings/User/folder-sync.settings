@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FolderSyncSettings Version="1.0">
+    <syncsOnlyDocumentsInCollection Type="Bool">No</syncsOnlyDocumentsInCollection>
+    <takesSnapshots Type="Bool">Yes</takesSnapshots>
+    <draftPlainTextExtension Type="String">md</draftPlainTextExtension>
+    <folderRelPath Type="String">Writing</folderRelPath>
+    <draftFileFormat Type="Int">0</draftFileFormat>
+    <plainTextAddsParagraphPadding Type="Bool">Yes</plainTextAddsParagraphPadding>
+    <importShowsContainersOnly Type="Bool">Yes</importShowsContainersOnly>
+    <usesFileNumbering Type="Bool">No</usesFileNumbering>
+    <folderPath Type="String">/Users/kennedyb/Projects/tamareth/Writing</folderPath>
+    <enabled Type="Bool">Yes</enabled>
+    <automaticallyCheckForChanges Type="Bool">No</automaticallyCheckForChanges>
+    <importDestinationUUID Type="String">F2B451CD-9825-4D90-A23C-33B3F8295F24</importDestinationUUID>
+    <syncsDraftFolder Type="Bool">Yes</syncsDraftFolder>
+    <syncsOtherTextFiles Type="Bool">Yes</syncsOtherTextFiles>
+    <otherFileFormat Type="Int">0</otherFileFormat>
+    <otherPlainTextExtension Type="String">md</otherPlainTextExtension>
+</FolderSyncSettings>
