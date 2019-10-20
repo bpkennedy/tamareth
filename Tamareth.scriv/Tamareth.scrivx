@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="D2C87307-ED7F-4E01-9B8D-89A0BE15C9BC" Version="2.0" Creator="SCRMAC-3.1.4-12105" Device="MacBook-Pro-2" Author="Kennedy, Brian" Modified="2019-10-18 16:39:06 -0500" ModID="2125D636-C6F1-4EF3-8480-15DCB96AEFB4">
+<ScrivenerProject Identifier="D2C87307-ED7F-4E01-9B8D-89A0BE15C9BC" Version="2.0" Creator="SCRMAC-3.1.4-12105" Device="MacBook-Pro-2" Author="Kennedy, Brian" Modified="2019-10-19 23:28:20 -0500" ModID="2CBCA0EC-0212-47AF-B3CB-8867B6C4F1F9">
     <Binder>
         <BinderItem UUID="BF8D845C-9224-4084-9FAD-27B43D3F1CEF" Type="DraftFolder" Created="2010-04-21 08:23:40 -0500" Modified="2010-04-21 08:23:40 -0500">
             <Title>Draft</Title>
@@ -13,7 +13,7 @@
                 </OutlinerExpandedState>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="E67912FB-CCAC-4513-9A69-EA41C2628448" Type="Text" Created="2019-07-06 20:53:34 -0500" Modified="2019-10-18 14:49:42 -0500">
+                <BinderItem UUID="E67912FB-CCAC-4513-9A69-EA41C2628448" Type="Text" Created="2019-07-06 20:53:34 -0500" Modified="2019-10-19 20:07:44 -0500">
                     <Title>0 prologue</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
@@ -52,10 +52,10 @@
                         </CustomMetaData>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>964,0</TextSelection>
+                        <TextSelection>473,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="16052486-E95E-4AF1-9B84-0A8505D7AA2B" Type="Text" Created="2019-07-06 20:53:34 -0500" Modified="2019-10-18 14:51:40 -0500">
+                <BinderItem UUID="16052486-E95E-4AF1-9B84-0A8505D7AA2B" Type="Text" Created="2019-07-06 20:53:34 -0500" Modified="2019-10-19 22:17:07 -0500">
                     <Title>1 just another builder</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
@@ -103,10 +103,10 @@ He is working on creating what would be the world of Tamareth's first Steam Engi
                         </CustomMetaData>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>18440,0</TextSelection>
+                        <TextSelection>12739,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="2791A7BB-02CC-477B-8C7F-3ECBF10906A1" Type="Text" Created="2019-07-06 21:04:18 -0500" Modified="2019-10-18 14:53:25 -0500">
+                <BinderItem UUID="2791A7BB-02CC-477B-8C7F-3ECBF10906A1" Type="Text" Created="2019-07-06 21:04:18 -0500" Modified="2019-10-19 23:28:20 -0500">
                     <Title>2 salt of tamereth</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
@@ -154,7 +154,7 @@ He is working on creating what would be the world of Tamareth's first Steam Engi
                         </CustomMetaData>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>10259,0</TextSelection>
+                        <TextSelection>22470,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="6C11C91F-02F5-48D9-AF1C-4755A6DC97EF" Type="Text" Created="2019-10-18 15:07:52 -0500" Modified="2019-10-18 15:08:41 -0500">
@@ -1484,14 +1484,14 @@ Wainonen</Value>
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-09-28 07:03:24 -0500" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-10-19 01:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="6354" Characters="35227" Date="2019-10-18 16:38:48 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-10-20 01:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="2040" Characters="11152" Date="2019-10-19 20:20:03 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-10-18 00:00:00 -0500">
-        <DraftWordCount>6354</DraftWordCount>
-        <DraftCharCount>35227</DraftCharCount>
-        <OtherWordCount>616</OtherWordCount>
-        <OtherCharCount>3381</OtherCharCount>
+    <RecentWritingHistory Date="2019-10-19 00:00:00 -0500">
+        <DraftWordCount>2040</DraftWordCount>
+        <DraftCharCount>11152</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>48FE6035-EDAE-4650-B6FE-F2E0FD767457</TemplateFolderUUID>
     <BookmarksFolderUUID>68F7E0D0-DC09-4031-87BD-58176978E78D</BookmarksFolderUUID>

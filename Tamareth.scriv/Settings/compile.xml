@@ -41,11 +41,16 @@
             </Ebook>
         </Options>
         <MetaData>
-            <ProjectTitle>Snowflake method template</ProjectTitle>
-            <ProjectAbbreviatedTitle>Snowflake method template</ProjectAbbreviatedTitle>
+            <ProjectTitle>Tamareth</ProjectTitle>
+            <ProjectAbbreviatedTitle>Tamareth</ProjectAbbreviatedTitle>
             <Authors>
                 <Author Role="aut">Kennedy, Brian</Author>
             </Authors>
+            <Surname>Kennedy</Surname>
+            <Forename>Brian</Forename>
+            <Subjects>
+                <Subject>fantasy</Subject>
+            </Subjects>
             <EbookLanguage>en</EbookLanguage>
             <FountainTitlePageMetaData>
                 <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
@@ -57,7 +62,7 @@
             </MMDMetaData>
         </MetaData>
     </ProjectSettings>
-    <CurrentFileType>mmd</CurrentFileType>
+    <CurrentFileType>docx</CurrentFileType>
     <FormatSettings>
         <Format ID="DEFAULT">
             <SectionLayouts>
@@ -70,5 +75,6 @@
     <LastUsedFormats>
         <Print>DEFAULT</Print>
         <mmd>DEFAULT</mmd>
+        <docx>vellum-export</docx>
     </LastUsedFormats>
 </CompileSettings>

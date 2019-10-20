@@ -12,6 +12,54 @@
 	<string>/Users/kennedyb/Documents</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
+	<key>QRPanelSettings</key>
+	<dict>
+		<key>E67912FB-CCAC-4513-9A69-EA41C2628448</key>
+		<dict>
+			<key>BinderUUID</key>
+			<string>E67912FB-CCAC-4513-9A69-EA41C2628448</string>
+			<key>CurrentMetaData</key>
+			<integer>-1</integer>
+			<key>MainPaneWidth</key>
+			<real>475</real>
+			<key>ProjectBookmarksSplitInfo</key>
+			<array>
+				<string>{{0, 0}, {225, 495}}</string>
+				<string>{{235, 0}, {443, 495}}</string>
+			</array>
+			<key>ProjectBookmarksVisible</key>
+			<false/>
+			<key>ShowsFormatBar</key>
+			<true/>
+			<key>ShowsMetaData</key>
+			<false/>
+			<key>SplitInfo</key>
+			<array>
+				<string>{{0, 277}, {475, 167}}</string>
+			</array>
+			<key>TextSettings</key>
+			<dict>
+				<key>hasMultiplePages</key>
+				<false/>
+				<key>isRulerVisible</key>
+				<false/>
+				<key>lineNumberingInterval</key>
+				<integer>1</integer>
+				<key>showsLineNumbers</key>
+				<false/>
+				<key>textFocusMode</key>
+				<integer>0</integer>
+				<key>textScaleFactor</key>
+				<real>1</real>
+				<key>usesFacingPages</key>
+				<false/>
+				<key>usesTypewriterScrolling</key>
+				<false/>
+			</dict>
+			<key>WindowFrame</key>
+			<string>482 286 475 522 0 0 1440 877 </string>
+		</dict>
+	</dict>
 	<key>QuickRefFloatBehavior</key>
 	<integer>3</integer>
 	<key>RecentMoveTos</key>
@@ -492,14 +540,14 @@
 	<false/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1218, 354}}</string>
+		<string>{{0, 0}, {1221, 415}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>0</integer>
 	<key>exportFilesFormat</key>
 	<integer>10</integer>
 	<key>fullScreenBackgroundFade</key>
-	<real>0.89999997615814209</real>
+	<real>1</real>
 	<key>fullScreenHorizontalPaperPosition</key>
 	<integer>2</integer>
 	<key>fullScreenInspectorMode</key>
@@ -557,8 +605,7 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {826, 709}}</string>
-		<string>{{827, 0}, {394, 709}}</string>
+		<string>{{0, 0}, {288, 850}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>394</real>
@@ -1844,7 +1891,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 294}}</string>
+	<string>{{0, 0}, {620, 298}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{1092, 0}</string>
 	<key>mainDocumentEditor.sizeToFit</key>
@@ -1867,7 +1914,7 @@
 	<key>mainDocumentView</key>
 	<string>mainDocumentEditor</string>
 	<key>mainWindowFrame</key>
-	<string>0 116 1440 761 0 0 1440 877 </string>
+	<string>0 116 1440 761 0 0 1440 900 </string>
 	<key>pageSizeOption</key>
 	<integer>0</integer>
 	<key>previousDocumentTargetType</key>
@@ -2492,7 +2539,7 @@
 	<key>supportingDocumentEditor.outlinerVisible</key>
 	<true/>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 653}}</string>
+	<string>{{0, 0}, {620, 774}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.sizeToFit</key>
