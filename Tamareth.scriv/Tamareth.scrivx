@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="D2C87307-ED7F-4E01-9B8D-89A0BE15C9BC" Version="2.0" Creator="SCRMAC-3.1.4-12105" Device="MacBook-Pro-2" Author="Kennedy, Brian" Modified="2019-10-19 23:28:20 -0500" ModID="2CBCA0EC-0212-47AF-B3CB-8867B6C4F1F9">
+<ScrivenerProject Identifier="D2C87307-ED7F-4E01-9B8D-89A0BE15C9BC" Version="2.0" Creator="SCRMAC-3.1.4-12105" Device="MacBook-Pro-2" Author="Kennedy, Brian" Modified="2019-10-20 13:21:09 -0500" ModID="4E743AED-AF34-4857-83CF-33F9A7B371DA">
     <Binder>
         <BinderItem UUID="BF8D845C-9224-4084-9FAD-27B43D3F1CEF" Type="DraftFolder" Created="2010-04-21 08:23:40 -0500" Modified="2010-04-21 08:23:40 -0500">
             <Title>Draft</Title>
@@ -55,7 +55,7 @@
                         <TextSelection>473,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="16052486-E95E-4AF1-9B84-0A8505D7AA2B" Type="Text" Created="2019-07-06 20:53:34 -0500" Modified="2019-10-19 22:17:07 -0500">
+                <BinderItem UUID="16052486-E95E-4AF1-9B84-0A8505D7AA2B" Type="Text" Created="2019-07-06 20:53:34 -0500" Modified="2019-10-20 13:21:00 -0500">
                     <Title>1 just another builder</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
@@ -583,7 +583,7 @@ Wainonen</Value>
                                 <Target Type="Words" Notify="Yes">600</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="E9111B1B-2724-40AC-B6A0-235628E39D52" Type="Text" Created="2019-07-06 21:52:39 -0500" Modified="2019-10-18 16:18:07 -0500">
+                        <BinderItem UUID="E9111B1B-2724-40AC-B6A0-235628E39D52" Type="Text" Created="2019-07-06 21:52:39 -0500" Modified="2019-10-20 13:21:00 -0500">
                             <Title>Slavemaster_Synopsis</Title>
                             <MetaData>
                                 <LabelID>10</LabelID>
@@ -596,7 +596,7 @@ Wainonen</Value>
                                 <Target Type="Words" Notify="Yes">600</Target>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="01C7A429-F3AB-4F6D-93FB-BED3D47B0FDF" Type="Text" Created="2019-10-18 16:15:48 -0500" Modified="2019-10-18 16:16:03 -0500">
+                        <BinderItem UUID="01C7A429-F3AB-4F6D-93FB-BED3D47B0FDF" Type="Text" Created="2019-10-18 16:15:48 -0500" Modified="2019-10-20 13:21:00 -0500">
                             <Title>Emperor_Synopsis</Title>
                             <MetaData>
                                 <LabelID>0</LabelID>
@@ -664,7 +664,7 @@ Wainonen</Value>
                         <TextSelection>472,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="40BB676A-6808-4970-9098-A19FC540CDFE" Type="Text" Created="2019-07-06 21:56:25 -0500" Modified="2019-10-18 16:20:53 -0500">
+                <BinderItem UUID="40BB676A-6808-4970-9098-A19FC540CDFE" Type="Text" Created="2019-07-06 21:56:25 -0500" Modified="2019-10-20 13:21:00 -0500">
                     <Title>PayoffMoments</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
@@ -675,7 +675,7 @@ Wainonen</Value>
                         <TextSelection>1864,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="2DE45F80-2DAB-4E1D-AAC7-B65D3D84B93D" Type="Text" Created="2019-10-18 16:21:07 -0500" Modified="2019-10-18 16:21:16 -0500">
+                <BinderItem UUID="2DE45F80-2DAB-4E1D-AAC7-B65D3D84B93D" Type="Text" Created="2019-10-18 16:21:07 -0500" Modified="2019-10-20 13:21:00 -0500">
                     <Title>Questions</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
@@ -1404,6 +1404,7 @@ Wainonen</Value>
         </Collection>
         <Collection Type="Arbitrary" ID="DBCAA5F2-6DEF-4B79-B5CC-A3E793B8B73A" Color="0.992 0.973 0.769">
             <Title>Updated Documents</Title>
+            <BinderUUIDs>16052486-E95E-4AF1-9B84-0A8505D7AA2B,E9111B1B-2724-40AC-B6A0-235628E39D52,01C7A429-F3AB-4F6D-93FB-BED3D47B0FDF,40BB676A-6808-4970-9098-A19FC540CDFE,2DE45F80-2DAB-4E1D-AAC7-B65D3D84B93D</BinderUUIDs>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -1484,14 +1485,14 @@ Wainonen</Value>
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-09-28 07:03:24 -0500" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-10-20 01:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="2040" Characters="11152" Date="2019-10-19 20:20:03 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-10-21 01:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="-68" Date="2019-10-20 13:21:06 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-10-19 00:00:00 -0500">
-        <DraftWordCount>2040</DraftWordCount>
-        <DraftCharCount>11152</DraftCharCount>
+    <RecentWritingHistory Date="2019-10-20 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>-68</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherCharCount>-22</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>48FE6035-EDAE-4650-B6FE-F2E0FD767457</TemplateFolderUUID>
     <BookmarksFolderUUID>68F7E0D0-DC09-4031-87BD-58176978E78D</BookmarksFolderUUID>
@@ -1499,30 +1500,41 @@ Wainonen</Value>
     <ExternalSyncMap>
         <SyncItem ID="9ABF3333-1329-44B8-AE8F-311F3D94634C">26</SyncItem>
         <SyncItem ID="19850FC3-05E1-409C-A273-8270E2F7499A">6</SyncItem>
+        <SyncItem ID="9155809F-931E-43FD-B9AE-EEE93D94597B">38</SyncItem>
         <SyncItem ID="B1C024DB-0D52-432E-81ED-2620CEBB3120">11</SyncItem>
         <SyncItem ID="0F4AA525-607E-4210-9619-C186C498DDBB">31</SyncItem>
+        <SyncItem ID="8537315A-D1E7-487D-8F10-2B8862D25556">36</SyncItem>
         <SyncItem ID="40BB676A-6808-4970-9098-A19FC540CDFE">33</SyncItem>
         <SyncItem ID="2B0F857A-EC65-41DD-BB90-EFAC600ED367">17</SyncItem>
         <SyncItem ID="5FCD2B50-6396-4183-8B70-77B6CEA255E5">2</SyncItem>
         <SyncItem ID="94CB0E39-A08D-431D-BFB1-EA936FB7075A">4</SyncItem>
+        <SyncItem ID="3B749A2B-24DB-48D3-98CF-90AE6DDD5362">43</SyncItem>
         <SyncItem ID="B6E82B11-DF8F-4AEF-AC49-3B24FB9DE73C">25</SyncItem>
-        <SyncItem ID="E9111B1B-2724-40AC-B6A0-235628E39D52">32</SyncItem>
         <SyncItem ID="2791A7BB-02CC-477B-8C7F-3ECBF10906A1">1</SyncItem>
+        <SyncItem ID="C6468D96-CF50-443C-ADAB-07E724A90E0C">39</SyncItem>
+        <SyncItem ID="3249C127-C6B5-4270-AAF7-5D0211099186">40</SyncItem>
         <SyncItem ID="E368EC36-7B02-4C0E-BECB-D5414D25EA2A">13</SyncItem>
+        <SyncItem ID="E9111B1B-2724-40AC-B6A0-235628E39D52">32</SyncItem>
         <SyncItem ID="9598D42D-977B-4F57-9A19-03E817EF23A4">8</SyncItem>
         <SyncItem ID="74E2C4B6-0DAC-414C-BA9F-5099ACADBD57">12</SyncItem>
         <SyncItem ID="DDCC5ECC-607A-4DE5-BCC3-2BC635578C30">18</SyncItem>
+        <SyncItem ID="A34BFDA9-0B4E-4CF0-9378-408CBB950FAE">42</SyncItem>
+        <SyncItem ID="FDD6D1EF-2DE9-4E24-989B-162C412DDF46">41</SyncItem>
         <SyncItem ID="FEFA1D0E-E805-4504-96CB-A76E8340C0F4">22</SyncItem>
         <SyncItem ID="97771251-AF58-411C-A149-4E8183D40690">9</SyncItem>
         <SyncItem ID="26C321AB-BE58-489E-AEF6-9D6CEA19BA46">10</SyncItem>
-        <SyncItem ID="3893E7C9-5135-4B61-AEF1-2433BE4CAF32">3</SyncItem>
+        <SyncItem ID="16052486-E95E-4AF1-9B84-0A8505D7AA2B">34</SyncItem>
         <SyncItem ID="1CA6713D-5E75-4CFA-ABF9-13AE2D2562BB">23</SyncItem>
+        <SyncItem ID="3893E7C9-5135-4B61-AEF1-2433BE4CAF32">3</SyncItem>
         <SyncItem ID="D7580258-2E01-4E47-95F1-E40689339325">14</SyncItem>
         <SyncItem ID="AE8FB389-D8FD-4774-BE98-83193766DB7B">30</SyncItem>
+        <SyncItem ID="01C7A429-F3AB-4F6D-93FB-BED3D47B0FDF">44</SyncItem>
+        <SyncItem ID="6C11C91F-02F5-48D9-AF1C-4755A6DC97EF">35</SyncItem>
         <SyncItem ID="F1C7D2DE-41F7-46FA-8410-89EBCCA2A89B">5</SyncItem>
         <SyncItem ID="973AD5E9-A7D5-4ADA-9458-134CDDCDF2BE">28</SyncItem>
         <SyncItem ID="48FE6035-EDAE-4650-B6FE-F2E0FD767457">21</SyncItem>
         <SyncItem ID="FDC764AD-FF8E-41DC-8F24-B7769FFB3510">29</SyncItem>
+        <SyncItem ID="FFA8A745-ACE9-451A-92BC-33F3BC183D33">37</SyncItem>
         <SyncItem ID="93D80BAB-01CC-4DC2-909A-3739F707DB62">19</SyncItem>
         <SyncItem ID="A359ABDE-AC1E-45B0-9845-24E692BBA6BE">27</SyncItem>
         <SyncItem ID="99AFEC00-B63B-4A36-9CF6-EB301037DA12">24</SyncItem>
@@ -1531,5 +1543,6 @@ Wainonen</Value>
         <SyncItem ID="E67912FB-CCAC-4513-9A69-EA41C2628448">0</SyncItem>
         <SyncItem ID="B6F73A55-5A38-4DD1-A8E2-C3C5C0A703E5">7</SyncItem>
         <SyncItem ID="A9F22707-1311-4AEA-8BDC-B2356551C55A">20</SyncItem>
+        <SyncItem ID="2DE45F80-2DAB-4E1D-AAC7-B65D3D84B93D">45</SyncItem>
     </ExternalSyncMap>
 </ScrivenerProject>

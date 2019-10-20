@@ -1,0 +1,33 @@
+The old man was the only one on the ship who wasn't wet. That wasn't for lack of rain, as he leaned on his cane and stared out over the bow. The other crew were too busy with securing the rigging and adjusting the sails against the wind to notice his weathered brown garment was completely dry. But Shelton noticed.
+
+The wind pulled the man's grey beard, but each drop of water seemed to warp around his body, leaving a sharp circle of dryness around his mud-covered boots.
+
+Shelton wiped the rain from his face and shouted over the wind, "We pull into port at sundown. You may want to get below decks." The old man nodded without turning. He seemed to be staring intently ahead of the bow of the ship, head locked, and his body was solid and unswaying on the deck without much effort while Shelton craned his hips and thighs to keep aright against the gale.
+
+The gusts picked up speed and the ship's boom creaked as it swung violently, taking a few of the crew tumbling across the deck. He made out more shouting through the wind. The sea was starting to pick up into high waves as the storm rolled in. He could smell fresh salt and brine.
+
+As Shelton struggled against ropes to bring the boom around, he glanced at the old man and saw him stare at the deck and slowly turn around as if following a trail on along the boards. His eyes landed on Shelton and the others, and for a moment he looked forlorn and sad. It was a strange expression to see in the midst of the storm's panic. Shelton had no time for it, he continued pulling the boom.
+
+A loud crunch erupted from aft with a tall plume of water. Shelton stumbled to his knees as the ship was yanked roughly to the side. The old man was suddenly in the air, clearing the rail. He twisted his body to clasp it with his hand and cane and set his feet on the outer hull. The ship started to pitch.
+
+Shelton quickly scanned the turbulent seas for Imperial or Pirate vessels. There could be no rocks in these deep waters, so surely they were being fired on. Strange that he had heard no cannons.
+
+Planks were coming apart at the seams, creaking and cracking. They curled or snapped as parts of the vessel were unceremoniously broken into chunks and plunged into the sea. Shelton was beyond terrified, hanging sideways onto the hull as the remnant began to rapidly sink, and for some reason he felt an urge to flee in the same direction as the old man, even while his other shipmates were leaping into the choppy tides below.
+
+He clamored up to stand on the port hull of the fully pitched and sinking ship. The old man stood calmly as the foam and roaring waves slowly brought down the ship, and Shelton was overwhelmed with unnatural fear. But the old man directed his face in a quick circle around the hull under his feet, briefly held up his cane and stamped it onto the wood.
+
+The portside bow ripped in one smooth movement from it's nails, tar, and struts with the old man and Shelton standing on it. For a brief moment, they were airborne but somehow standing aright as the severed section of the ship seemed to jump of it's own accord into the roaring storm, rotate of some twenty degrees and put down roughly but flat into the sea.
+
+Shelton fell to his stomach as soon as they landed, expecting to go under, but it didn't happen. The platform floated, and the old man still stood erect. He held his can firmly against the wooden floor and stared straight ahead, the direction the ship had been sailing. 
+
+Shelton glanced back and saw the last of the ship sink below the waves. Flotsam, debris, and bodies bobbed in the rolling waves. Some arms were waving and he could hear distant shouts carried on the winds.
+
+"We must help them! There's room!" he shouted to the old man.
+
+The old man turned slowly to face him. He didn't make any attempt to speak but just observed him. Shelton frowned and opened his mouth to plead again, but something about the old man halted his breath. As he stared into the wrinkled face - the pale face of any old Sojuk empire man - some significance, some weight began to creep into his mind. He was looking at someone special, someone great, and someone much older than the skin and bones before him.
+
+It was dreams and myth, a howling instinctual reaction, that triggered every indicator in his chest and stomach. Magnitude beyond understanding. Like the old man would always be here, standing on this jagged ship piece. Like he had always existed, before the empire, before the sea, before Tamareth itself. He was as ancient as remembering itself. He was a god.
+
+"I'm sorry," the old man's voice spoke inside Shelton's head. Although the man stood in place, Shelton felt his body suddenly wrapped, picked up, and dumped into the rushing sea. He thrashed in the water trying to remove his heavy boots and clothing, coughing and sputtering when he crested the surface again, unable to get them off. But now where the old man and floating platform had been a moment ago there was nothing.
+
+The last thing Shelton and his crew saw was a wave the size of a mountain, curling up straight like a wall, moving with slow sureness. Before it consumed them he thought he saw the old man atop his makeshift platform, standing still and easy, cane touching firmly, staring straight ahead, rising up, over, and onward.

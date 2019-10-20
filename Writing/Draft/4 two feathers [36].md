@@ -1,0 +1,1 @@
+Runa is followed by a featherhound, a not uncommon animal of the Tunen Kingdom, but this one is special - it is particularly interested in her and also it can talk. Another magical artifact is lodged inside the featherhound, and Runa begins to feel magic for the first time as theirs resonate when near each other

@@ -605,7 +605,7 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {288, 850}}</string>
+		<string>{{0, 0}, {288, 729}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>394</real>
@@ -1891,7 +1891,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 298}}</string>
+	<string>{{0, 0}, {620, 294}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{1092, 0}</string>
 	<key>mainDocumentEditor.sizeToFit</key>
@@ -2539,7 +2539,7 @@
 	<key>supportingDocumentEditor.outlinerVisible</key>
 	<true/>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 774}}</string>
+	<string>{{0, 0}, {620, 294}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.sizeToFit</key>

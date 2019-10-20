@@ -1,0 +1,163 @@
+Runa slipped the shovel into the top of the salt pile and lifted with her legs. The white granules dully sparkled in the afternoon sun as she walked out along the dormant crop rows. The muscles in her forearms and shoulders were taut and steady. She balanced the shovel alongside her body.
+
+The ground was barren and dark but soft. It had been recently cultivated, maybe a season or two earlier. The rich scent of damp soil was barely noticeable beyond the overpowering stench of salt. It was litered on the ground like a thin blanket. Runa plodded mechanically to the end of the row where the soil was clear and carefully poured the salt over it.
+
+She heard a voice a few rows distance say aloud, "Mind the shovel, now."
+
+Runa didn't need to glance up but she did anyway. She knew it was Hoeg instructing the new girl who'd arrived yesterday. She would be lucky to last the month. As Runa returned for the next shovel of salt, she heard Hoeg continue his low talk to the girl.
+
+"You hold it straight, see?" There was a pause. "Aye, now, tighten up along the handle."
+
+She heard the girl's soft, scared voice barely above a whisper, "Like this?"
+
+There was no reply. She suspected Hoeg had quietly nodded as he usually did. Runa approached the back of the salt wagon as two gangly young men were quietly forming small hills of salt from the back of the wagon to the front, within her reach. They had adolescent wisps of hair on their chins that wouldn't quite grow together into a beard, and their hair was a tangled mess of black. Unfamiliar people usually missed that they were twins.
+
+"About another 10 minutes today, and we're done." Torj whispered. Runa nodded without looking up. She heard his brother Riki add, "If the boss doesn't lose her damn mind today."
+
+"Shutup, you fool!" Torj replied. She heard a quick jostle and crunch of salt as Torj put his boot to his brother's hip. Runa ignored it and drove her handle into the pile smoothly, grabbed another shovel full, and wandered back to her row.
+
+The girl was walking across her path. She was petite and smooth faced, only a few years younger than Runa. Her chopped dark hair still had the mostly clean sheen of one who wasn't born into slavery for the Empire but was brought into it. Her clothes were the same rags as everyone else's but there wasn't the same dirt stains on her arms and neck yet.
+
+Runa guessed she had been a peasant from the most recent military target, the town of Vahky. She'd need to learn quite a different skill set to survive now. "Watch yourself," she growled.
+
+The girl was startled and winced away from her. Runa could see the vulnerability in her eyes. She internally shook her head. That would need to change. Hoeg was not far behind the girl and gave Runa a quizzical look to which she returned a huff and flexed her nostrils.
+
+Hoeg was older than the rest of them, including herself, but he wasn't yet an old man. There was only the hint of a wrinkle around his eyes, and the gray had only just started to sprinkle around his short hair. His arms were laced with scratches and scrapes from work, and his face was dusty and dry. His skin looked as though it might crack if you pulled too hard. Hoeg had been in the group the longest except for herself.
+
+The three of them marched out to the edges of the salt and delivered more onto the ground. It would have been a silent affair except for the sounds of clashing steel, shouted orders, and the rumble of large wheeled war machines coming from beyond the hills in front of them.
+
+Snakes of gray-black smoke curled from various points. Runa had grown accustomed to the smell of burnt oil, wood, flesh, and iron. The catapults rhythmic launching of flaming ingots was a grating boom that occasionally synchronized with the beat of her heart. The spheres would occasionally crest the horizon, briefly flailing with orange rage, and disappear further afield.
+
+As she slung the last of the salt onto the field, Runa took a moment to pause and survey their progress. This field was nearly done. The white poison would ensure that nothing ever grew here again. She felt a pang of sadness that she instantly banished. She was too tired, and there was no hope for anyone in this land. Be it in battle or in bondage, they all fall.
+
+A familiar horn blast sounded from behind them, and a long haired figure on a horse galloped up near the wagon. "Pack it up, you dogs," the slavemaster shouted.
+
+Torj and Riki were nearly prostrate on the floor of the wagon, as she addressed them and everyone else in a sweeping semi-circle. Her horse was adorned with dull armor along it's neck, back, and hindquarters. The woman herself was strapped into leather armored coverings more suitable for a warrior than a slavemaster.
+
+It made sense, Runa thought as she took her place in the single file line they formed before her, she had come from the ranks after their last master was slain during a well-timed Tunen foray last week. It explained all the ridiculous ceremony she demanded.
+
+The new girl struggled to appear calm, but Runa could see the knuckles of her hand white from clasping her pant leg. Master dismounted her horse in a fluid motion. Her legs and arms were powerful, even more-so than Runa's. She walked with a wide, sure gait and held her back straight. Her deep set blue eyes and evenly cut blonde hair gave her a distinctly proud demeanor.
+
+But the smirking curl of her lip and the cold intensity of her gaze told the real story. She removed the shackles from her horse's saddlebags and tossed each one to the group. Torj and Riki fumbled for theirs. Hoeg caught his easily. The new girl didn't react fast enough, and the thick, iron cuffs clipped her temple above her left eye. A thin, bloody line was visible as the girl sucked in her breath and retrieved them from the ground.
+
+The others squinted and remained uncomfortably still. Hoeg managed a brief glance at the new girl and Runa could see him hiding his anger. The master let her gaze linger briefly on Runa. Her eyes were sparkling with something that disgusted Runa. It was giddiness. The slavemaster was enjoying this, and at the same time was goading them.
+
+She threw the Runa's cuffs sharply at her face, but Runa caught them with one hand. The rusted metal painfully pinched her palm and the second cuff swung around it's chain links slicing the back of her hand, but she didn't flinch. She set her eyes solidly on the slavemaster's. The woman's smirk twitched, and her expression slowly turned into irritation. She turned back to the group.
+
+"Get them on," she commanded as she mounted the steed again, "and let's move."
+
+Runa latched hers around her wrists and took her position at the head of the wagon pole. It was a long thick wooden trunk with hewn pegs at even spaces along the trunk for slaves to clasp and push with. Torj and Riki tried to lend the new girl a hand, as she was unsteady on her feet. The cut on her temple had leaked blood over her eye, and she was wiping it out of her face, smearing the red around her cheek and hair.
+
+"No!" Master shouted from the horse, "she'll live. Get this wagon moving now." The two young men froze and slowly backed away from the girl. They stared at the ground with their heads down, taking their positions at the wagon. Runa noticed Hoeg had already anticipated and was already in position behind her.
+
+The new girl was shivering, and she wiped at the blood, but she trudged to the wagon and grasped the peg directly beside Runa. She looked briefly at her, and there was pain, hopelessness, and anger in her face. Runa swallowed hard and looked forward, toward their task.
+
+Master rode behind the wagon as they turned it and pushed it back through the salted crop field. The wooden wheels tumbled and groaned along the pinion. Runa focused on her hands and arms, keeping the muscles taut and engaged as they pushed. It wasn't the effort that tired a body, it was the ebb and flow of resistence. It was the starting and stopping, the hope and despair. To be continuous, that was the only way to maintain and avoid disappointment.
+
+As they passed from the crop field, the wagon wheels turned easier on top of smoother terrain. Barren, flat soil stretched before them. The ground was scattered sparsely with withered shrubs and clumps of brown grass between vast stretches of empty space. Some of that space had huge gouges in the earth and old barricades of dirt packed into now-abandoned trenches, encampments, and levies.
+
+One of them was still populated with a collection of large rope and leather tents. Cookfires were built in tight proximity in the center of the camp, and Sojuk soldiers were about their business of their evening meal. A patrol of them, twelve in all and doned with light armor, were being led by a Cavalier in a thick metal armor plate around his torso and a broad sword strapped over his back. The dust was pluming up around them as they marched in loose formation around the wide perimeter of the camp.
+
+Runa noticed a speck of blood drop onto the light wood grain of the wagon pole she was holding. She glanced up at the new girl and saw the blood was coming down quickly, a trail led down to her chin where the drops were flinging with the movement of her struggle to push.
+
+"Ease up a little," she said quietly.
+
+The girl seemed to wake from a fog and looked over at her with surprise. "Huh?"
+
+"Stop pushing so hard. You don't add much to us anyway. No need to shove the blood right out of your head," she said.
+
+The girl looked away at her feet and Runa felt her stop pushing as hard. They were nearly at camp. "Am I going to die here?" she suddenly asked. The girl's voice was quiet but choked. Runa saw that her eyes were welling up with tears.
+
+Runa frowned and stared forward through the noisy camp, "Probably."
+
+"We'll cut some cloth and bandage your head when we return, Alma. You will be fine," Hoeg asserted gruffly from behind Runa.  Runa could hear the disapproval in his voice.
+
+Alma sniffled once, took in a centering breath, and promptly wiped the her eyes and cheeks. Little trails of clean skin now smeared together in a mixture of dust, dirt, and tears. Except for the grime and dirt, the girl was beautiful in a quaint way, probably the envy of many nearby farm hands. Her hair used to be silken and straight, flowing brown - now chopped at the ears and tangled with small knots. Her neck was thin, long, and delicate like her cheeks and nose.
+
+In truth, Runa thought, Alma should worry more about probing hands. She glanced around at the male soldiers squatting or standing over their cook fires. Many of them were still wearing armor and fresh from the field. The wounded would be tended up near the sick tent at the end of camp furthest from the front line.
+
+A few of them smiled cruelly as they passed, while most simply stared down at their meal or steadily into their fires. Of those who did stare, Runa clenched her teeth as some of them licked their lips and eyed her and Alma up and down.
+
+The group finally arrived at the slave quarters, a tight fenced encampment of a few buildings for sleeping, eating, and privy needs. Master trotted to the front and issued a few short orders to the gatemen who opened the double doors by removing a large log from the latch. She sat calmly on her mount watching with a half smile on her face as Runa and her fellow slaves shoved the wagon into it’s berth adjacent to the fencing and heaved sighs of relief as they released their positions.
+
+Master dismounted and one-by-one unshackled the group, while one of the gate guards lugged a satchel of grain and several jugs of water inside the enclosure for their dinner. She did Runa last, twisting the iron braces viciously to more easily reach with the key. Runa gritted but remained neutral.
+
+After she was done she sauntered to the gate without a word and the heavy thud of the log could be heard dropping into place as the gates closed. Torj and Riki visibly relaxed and started shaking out the soreness in their arms and shoulders. Hoeg was already at Alma’s side commanding her attention as he assessed the wound on her face.
+
+Runa pursed her lips and retrieved the sack of grain, walking it into the meal shack. She called out of the open doorway as she gathered the bowls off of the rickety table in the center of the small room. “Get the water, Torj. Riki, fetch some wood for the fire.”
+
+Outside, she could hear Hoeg speaking. “…pretty easy to get infected out here. You’re better off tying something around your head. Come, we’ll take some fabric from one of the blankets.”
+
+“Better not be my blanket!” Runa shouted to them as used a stick to dig and shove grey ashes around the cookware area that had been carved into the floor of the shack and lined with brown rocks. There was no response as they both left earshot, into the sleeping quarters.
+
+Torj huffed into the room and hefted the water jugs onto the table. Runa tossed him a warped wooden bowl. He caught it gratefully and poured a half measure of water from which he drank carefully and completely. The jostling of sticks and crunch of feet signaled Riki’s arrival. He came through the doorway and dropped the wood next to the pit, immediately taking a place beside his brother who was already pouring him a bowl.
+
+Runa arranged the tinder and after a few minutes of rigorously working the flint, a tiny flame fizzled to life and began slowly growing. “You’re up,” Riki muttered to Torj who was starting to doze with his back against the shack wall.
+
+He came to and took over growing the fire as Runa stepped outside for a few breaths of cooler air. The sun was setting beyond distant hills and the temperature was cooling down substantially, as if cool fingers were soothing her arms and neck. The deep orange glow of the fading sun cast long shadows of pikes, the haphazerd wooden walls of the enclosure, the tall scout towers that could be seen at the corners of the Empire’s forward battalion.
+
+Alma and Hoeg had returned and the girl had a neatly cut piece of cloth in her hands. “We’ll need to rinse out the wound before we put this on. Afraid you have a likelyhood of infection even from the cloth - Talo knows how long it’s gone without a wash. But it’s better than leaving it open.”
+
+Alma glanced briefly at Runa but continued walking with Hoeg into the meal shack. Runa was about to return but a sensation prickled along her back and up her neck making her think someone was nearby or watching her. It was akin to a breeze, but the wind wasn’t blowing. She tensed her body and looked around alert, but there was nothing save the mumble of distant soldiers talking over their fires, the clank and groan of other wagon wheels crunching over the dry ground, and the distant howl of the featherhounds crooning to each other from the jutting peaks of the Scythe.
+
+She often found herself staring at the the Scythe, and tonight was no different. Those mountains were like giant iron sentinels warding off those who would presume to travel them. Their tips seemed to launch right into the sky and on misty days disappear entirely above the clouds. It was as though Tamareth itself had created a wall, meant to protect the Tunen Realm from the Empire. Or to trap them.
+
+Runa huffed and returned to the shack. She took over the fire and prepared the grain in boiling water. Alma, wound cleaned with water, now had the cloth tied around her head and was sitting at the table. Hoeg had finished his water and was sitting on the ground in the corner leaning his head back, almost asleep.
+
+Torj took out a small dark bottle from somewhere behind him and set it on the table in front of Alma. “For the pain,” He said.
+
+“Whiskey? Where’d you find that?” Riki asked immediately. Runa was impressed, as well.
+
+“I stumbled into an idle cookfire on the way to the fields this morning, and suddenly this bottle was in the back of my pants, honestly,” he replied with a crooked smile.
+
+“You kept that hidden the entire day?” Runa asked.
+
+Riki chuckled, “Well, if you’d have gotten closer you’d have smelled how well he kept it hidden. Half of it is gone.”
+
+Hoeg shook his head reprovingly. “You’re playing a dangerous game. Master catches you with this and you’re likely to get a lot of pain.”
+
+Torj dismissed the comment and shrugged, “It’s pain anyway, Hoeg. I’d rather die with a little fire in my gut.”
+
+Alma picked up the bottle and took a quick swig from it. Her face contorted slightly with the burn as she swallowed it down, but she thanked Torj quietly and handed it back to him.
+
+The pot of oatmeal was bubbling as Runa removed it from the flames. She spooned portions into each bowl and handed them out. Hoeg came to the table as Runa was sitting down. Torj and Riki began to eat right away, tilting their bowls back to their mouths. Hoeg cleared his throat loudly, causing them to pause and roll their eyes. He prayed, “Talo, Divine One, nourish us that suffer and provide hope for the hopeless.”
+
+“…also bring me a pony for midwinter’s day, and lots of sweet rolls,” Riki chuckled.
+
+Hoeg scowled and focused on eating his meal. Runa payed no mind and ate, but Alma eyed the food cautiously. Not, Runa imagined, for mistrust of it’s effects but more on it’s appearance. It was a gray, gellatinous muck, hardly appetizing to even those who were starving. She quietly regarded Hoeg and asked, “Is Talo your god?”
+
+“Talo is the one god, the only. He is the god of my people in the west, off the isles of Manua,” Hoeg replied solemnly.
+
+Alma nodded slowly, “Manua is a long way from here.”
+
+Hoeg looked into his bowl as he ate, “It has been a long journey.”
+
+The finished their meal in silence and each in turn sat back against the shack walls as the glow outside the doorway faded into darkness and the glow from the fire cast shadows across the room.
+
+Runa heard the gate swing open and the booted tread of soldiers. She sat up straighter in her seat and positioned her feet squarely onto the floor. Torj, Riki, and Hoeg looked startled but quickly hid it as best they could. Only Alma seemed to be unaware as to what was happening.
+
+There was gruff laughter shared between the soldiers as they stepped into the doorway of the shack. Runa could smell campfire and whiskey reeking from their breaths as one sputtered, “Hear you lot have some new lass helping with the salt. Thought we’d show her around the camp.”
+
+It only took a moment for Alma to realize her situation and then panic and utter fear rose on her face. Her hands shook as she grasped the table.
+
+He could barely contain himself from laughing, while his drunken partner made no effort to restrain himself and guffawed. “Come on, you. Let’s have a look.”
+
+One of them walked behind Torj and Riki and was reaching to grab her arm. Hoeg was one his feet in a split second and his elbow connected solidly with the soldier’s temple, sending him stumbling backwards.
+
+“Hey!” The other soldier shouted, reaching for the short sword in his scabbard. Runa was over the table and flung her legs into the soldier’s chest. He smashed back into the wall of shack, shaking the small structure violently. While he clutched his chest and tried to regain the wind that had been knocked out of him, she kneed him in the groin and threw him out of the shack. She gripped the soldier that Hoeg stunned in a choke hold and backed out of the shack with him so that it was just her and the two soldiers in the enclosure yard. She knew how this would end, and it would be better to keep the punishment isolated to as few of their number as possible.
+
+Hoeg tried to assist her, but the warning in her eyes made him pause even as he silently argued back with his own. The guards at the gate had signaled for nearby help and now rushed to the source of the commotion. Runa released and shoved the soldier into his partner. The gatesmen didn’t stop to ask questions, and Runa didn’t attempt to resist them. They matter-of-factly pulled out their short clubs and struck her. The clubs connected with her stomach, shoulder, and head. One gripped her by the cloth shirt and spun her, tearing it half off while the other battered her with the club. The world spun in blur and she found herself on the ground a moment later. She felt a sharp snap in one of her ribs as a kick lanced into her side, the booted toe cracking a rib.
+
+The pain was fire around her body, but she clenched her teeth. The worst of it was over now, as the two drunken soldiers got shakily to their feet. One of them tended to what was most likely a broken nose from Hoeg, and the other, having finally regained his breath, glared at Runa and gave her a frustrated kick albeit ineffectual due to his intoxication. He decided the evening wasn’t worth the trouble and they both walked out of the enclosure and back to their fires.
+
+The gatesmen left Runa on the ground without a word and returned to their post, replacing the log over the gate. After they were gone, Torj, Riki, and Hoeg came quickly out of the shack and helped her into the sleeping quarters, checking her for broken bones and doing what they could to be gentle. Alma came with them looking pale-faced and teary-eyed.
+
+As they set her on one of the bedding piles, Alma blurted in a shocked voice, “Did they do that to your back?” On Runa’s back she could see small black stones almost as pure in color as a gem. Some were the size of a pebble and a few were as large as an egg. It seemed as if they had been thrown into her back where they remained sunken halfway into the skin, but there was no blood or red scar. The skin seemed to come to each edge of the stones as if they might be decorative in some strange otherworldly culture. The fading evening light reflected off of some of the stones surfaces briefly as Runa lay.
+
+“No,” she replied curtly, pulling the hanging part of her shirt to cover her back.
+
+There wasn’t much talking for the rest of the evening, and Runa remembered very little as the pain swelled. She watched the ceiling of the sleep quarters change shades as the light went completely out. The glow of the fire from the meal room flickered, and she could hear the low, worried voices of Torj and Hoeg talking.
+
+The last thing she remembered was imagining that the pain was going away, the ribs in her side were weaving back together, the bruises and cuts were rapidly healing, and one of the featherhounds had ventured curiously far from the Scythe and was pacing around just outside of the Empire’s war camp.
+
+ 
