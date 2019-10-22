@@ -42,7 +42,9 @@ Alokai pumped his fist into the air and jogged out the workshop door. His sandal
 
 Along the shore fishermen were carrying boats on their shoulders up to a line of cleaning tables. Full nets hung by their sides as they walked, and the sharp scent of fish wafted past him. Cool breeze rolled like waves across the entire village, tussling the tops of the domes and licking up his arms. Women carried clay jars of produce or bundles of frond or wheat grains. Occasional children giggled or shouted and darted between the domed frond-topped huts.
 
-The tribe temple was just inside the island mainland, surrounded by a wide circle of green grass. High beams jutted into the sky in cross-stitch pattern from a roof much taller than the huts. It's interior could easily fit three huts inside it. Decorative sheets with a multitude of vibrant colors were tied around each column. The language of their people covered the sheets in intricate linework and drawings. Alokai smiled as he revisited the familiar design, the joints and fittings, all the little details of the structure that he remembered from the countless evenings his father shared the work of designing it with him.
+The tribe temple was just inside the island mainland, surrounded by a wide circle of green grass. High beams jutted into the sky in cross-stitch pattern from a roof much taller than the huts. It's interior could easily fit three huts inside it. Decorative sheets with a multitude of vibrant colors were tied around each column. 
+
+The language of their people covered the sheets in intricate linework and drawings. Alokai smiled as he revisited the familiar design, the joints and fittings, all the little details of the structure that he remembered from the countless evenings his father shared the work of designing it with him.
 
 Before he could reach the temple, he heard a sharp squeel. He glanced over and saw a familiar group of leering adolescents, laughing harshly. They were behind a clump of trees, huddled around a pig that was flopping and struggling in the dirt. Alokai immediately came to a stop and instinctively looked for something to walk behind. A run-in with Mateo and his friends was the last thing he wanted today, but the sound of the pig made him squirm, and he flinched at each gyration the poor creature made.
 
@@ -50,7 +52,7 @@ Before he could reach the temple, he heard a sharp squeel. He glanced over and s
 
 Several of the boys spun around quickly, but when they realized it was him they visibly relaxed their shoulders and smirked. Alokai frowned and approached the tightly circled group. They seemed to smile more menacingly as he edged his way into the circle to view the crying pig.
 
-It was on it's side trying to edge away from a bright red and yellow snake. It's back two legs were limp and dragging on the group. There were two little red dots on it's hindquarters.
+It was on it's side trying to edge away from a bright red and yellow snake. It's back two legs were limp and dragging on the ground. There were two little red dots on it's hindquarters.
 
 "Nothing to do for it, boys. Won't last much longer," Mateo said in an even voice. He hadn't noticed Alokai yet.
 
@@ -94,7 +96,7 @@ Alokai twisted his lips and huffed out of his nose. Snapping his head towards th
 
 Osu gently unrolled the parchment and stretched them on the stone floor beside them. His face was pleased as he looked over the layout and measurements, materials list, the positioning of the rails, the attention to detail. As flustered as Alokai was feeling, he was briefly overcome with a curiosity for Osu's opinion on their work and paid particular attention to him as he surveyed the plans.
 
-After a moment, he nodded and seemed satisfied. "Loto has always been a great asset to this tribe, and no-one can dispute that. Watching his work has always been a great pleasure of mine. That will be another fine project," he said, rolling back up the plans carefully.
+After a moment, he nodded and seemed satisfied. "Loto has always been a great asset to this tribe, and no-one can dispute that. Watching his work has always been a great pleasure of mine. This will be another fine project," he said, rolling back up the plans carefully.
 
 Alokai found he'd been unconsciously holding his breath and felt some small relief. As Osu handed over the roll he asked, "Have you been learning his art? I hear he has raised you to apprentice now."
 
@@ -114,13 +116,11 @@ When he arrived at their hut, he found a neat pile of tiny bones in front of the
 
 Their hut was split between the workshop where they performed their jobs and their living quarters. Loto was working in the back already, and Alokai didn't want to miss any of it. He excitedly jogged to the cupboard and put some salted meat and a wheel of cheese on a small plate, popped a loaf of bread in his mouth, and grabbed a jug of clean water. Then he wobbily carried them into the back room of the workshop where he could hear the sound of a hammer clinking on something.
 
-A variety of strangely shaped wood pieces the size of ox yolks were strewn on the floor of the small back room. They were nicely rounded on their outsides and hollow. Some of them looked like replicas of each other but in various sizes, and some of their ends were jagged from being broken. In the middle of the room was a pyre very similar to the one in the temple. 
+A variety of strangely shaped wood pieces the size of ox yolks were strewn on the floor of the small back room. They were nicely rounded on their outsides and hollow. Some of them looked like replicas of each other but in various sizes, and some of their ends were jagged from being broken. In the middle of the room was a pyre very similar to the one in the temple.
 
-However, instead of smoke rising there was kettle of water being boiled, and its top was covered with a domed brass lid. A hollow wooden cylinder was tarred and sealed to the top of the lid, and something his father called a 'plunger' was slowly rotating up and down which made a connected wheel spin on its own. Every few seconds the plunger would puff a small cloud of white smoke from its top which would rise up to the ceiling.
+However, instead of smoke rising there was a kettle of water being boiled, and its top was covered with a domed brass lid. A hollow wooden cylinder was tarred and sealed to the top of the lid, and something his father called a 'plunger' was slowly rotating up and down which made a connected wheel spin on its own. Every few seconds the plunger would puff a small cloud of white smoke from its top which would rise up to the ceiling.
 
-Alokai set the plate of food down on a workbench cluttered with other similar sets of plates and jugs. Odd shaped tools and pieces of metal bits were strewn around the bench top. "I think this one is working better," his father said, standing up from behind the contraption and grabbing some bread and meat. He was sweating from the heat of the fire. It was much hotter than normal cookfires.
-
-While his father ate and stared at the puffing machine, Alokai walked around it marvelling.
+Alokai set the plate of food down on a workbench cluttered with other similar sets of plates and jugs. Odd shaped tools and pieces of metal bits were strewn around the bench top. "I think this one is working better," his father said, standing up from behind the contraption and grabbing some bread and meat. He was sweating from the heat of the fire. It was much hotter than normal cookfires. While his father ate and stared at the puffing machine, Alokai walked around it marvelling.
 
 "One day, this will make a wagon move on it's own. All you'll have to do is keep the fire hot." Loto said between big bites, and motioned towards the stack of coal in a half-full bucket by the door. Alokai grabbed a few pieces and tossed them beneath the kettle.
 

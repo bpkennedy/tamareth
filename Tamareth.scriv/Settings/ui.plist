@@ -9,7 +9,7 @@
 	<key>CommentsUseTextScale</key>
 	<true/>
 	<key>CompileFolder</key>
-	<string>/Users/kennedyb/Documents</string>
+	<string>/Users/kennedyb/Projects/tamareth/vellum</string>
 	<key>NotesScaleFactor</key>
 	<real>1</real>
 	<key>QRPanelSettings</key>
@@ -127,6 +127,11 @@
 	</dict>
 	<key>bookmarksSelectionInfo</key>
 	<dict>
+		<key>02165079-A83F-4BCC-97BE-151C027E51DD</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>0F4AA525-607E-4210-9619-C186C498DDBB</key>
 		<dict>
 			<key>Row</key>
@@ -193,6 +198,16 @@
 			<integer>-1</integer>
 		</dict>
 		<key>3B749A2B-24DB-48D3-98CF-90AE6DDD5362</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>3F16261F-C2D2-4229-98B7-C0F3D47543F4</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>3FC5F3D9-5750-44EB-9BF9-28CE8ECE200F</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -391,6 +406,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>B5EE4EDB-38CA-4070-8960-B3F61A98189C</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>B6E82B11-DF8F-4AEF-AC49-3B24FB9DE73C</key>
 		<dict>
 			<key>Row</key>
@@ -540,7 +560,7 @@
 	<false/>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1221, 415}}</string>
+		<string>{{0, 0}, {928, 224}}</string>
 	</array>
 	<key>editorSplitType</key>
 	<integer>0</integer>
@@ -605,7 +625,7 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {288, 729}}</string>
+		<string>{{0, 0}, {288, 850}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>394</real>

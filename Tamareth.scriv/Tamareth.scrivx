@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="D2C87307-ED7F-4E01-9B8D-89A0BE15C9BC" Version="2.0" Creator="SCRMAC-3.1.4-12105" Device="MacBook-Pro-2" Author="Kennedy, Brian" Modified="2019-10-20 13:21:09 -0500" ModID="4E743AED-AF34-4857-83CF-33F9A7B371DA">
+<ScrivenerProject Identifier="D2C87307-ED7F-4E01-9B8D-89A0BE15C9BC" Version="2.0" Creator="SCRMAC-3.1.4-12105" Device="MacBook-Pro-2" Author="Kennedy, Brian" Modified="2019-10-21 23:16:20 -0500" ModID="245AE6B1-617D-45FE-B78F-D7B35454CF02">
     <Binder>
         <BinderItem UUID="BF8D845C-9224-4084-9FAD-27B43D3F1CEF" Type="DraftFolder" Created="2010-04-21 08:23:40 -0500" Modified="2010-04-21 08:23:40 -0500">
             <Title>Draft</Title>
@@ -7,197 +7,256 @@
                 <SectionType>904002D8-FC54-41F0-88E3-360B09ECBEF4</SectionType>
             </MetaData>
             <CorkboardAndOutliner>
-                <SelectedSubdocumentUUIDs>8537315A-D1E7-487D-8F10-2B8862D25556</SelectedSubdocumentUUIDs>
+                <SelectedSubdocumentUUIDs>02165079-A83F-4BCC-97BE-151C027E51DD</SelectedSubdocumentUUIDs>
                 <OutlinerExpandedState>
-                    <ItemID>2791A7BB-02CC-477B-8C7F-3ECBF10906A1</ItemID>
+                    <ItemID>02165079-A83F-4BCC-97BE-151C027E51DD</ItemID>
+                    <ItemID>B5EE4EDB-38CA-4070-8960-B3F61A98189C</ItemID>
+                    <ItemID>3FC5F3D9-5750-44EB-9BF9-28CE8ECE200F</ItemID>
+                    <ItemID>3F16261F-C2D2-4229-98B7-C0F3D47543F4</ItemID>
                 </OutlinerExpandedState>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="E67912FB-CCAC-4513-9A69-EA41C2628448" Type="Text" Created="2019-07-06 20:53:34 -0500" Modified="2019-10-19 20:07:44 -0500">
-                    <Title>0 prologue</Title>
+                <BinderItem UUID="B5EE4EDB-38CA-4070-8960-B3F61A98189C" Type="Folder" Created="2019-10-21 20:53:14 -0500" Modified="2019-10-21 20:53:16 -0500">
+                    <Title>Prologue</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
                         <StatusID>0</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <CustomMetaData>
-                            <MetaDataItem>
-                                <FieldID>location</FieldID>
-                                <Value>Western Straight off of Galube’i coast</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>secondarycharacters</FieldID>
-                                <Value>Ship crew</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>purpose</FieldID>
-                                <Value>* Promise what is to come in the story via mood, genre, tone
-* Provide some world setting </Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>primarycharacter</FieldID>
-                                <Value>Mysterious character</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>chapter</FieldID>
-                                <Value>0</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>when</FieldID>
-                                <Value>21-07-04 AS</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>duration</FieldID>
-                                <Value>1 week</Value>
-                            </MetaDataItem>
-                        </CustomMetaData>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>473,0</TextSelection>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="E67912FB-CCAC-4513-9A69-EA41C2628448" Type="Text" Created="2019-07-06 20:53:34 -0500" Modified="2019-10-19 20:07:44 -0500">
+                            <Title>0 prologue</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>location</FieldID>
+                                        <Value>Western Straight off of Galube’i coast</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>secondarycharacters</FieldID>
+                                        <Value>Ship crew</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>purpose</FieldID>
+                                        <Value>* Promise what is to come in the story via mood, genre, tone
+* Provide some world setting </Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>primarycharacter</FieldID>
+                                        <Value>Mysterious character</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>chapter</FieldID>
+                                        <Value>0</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>when</FieldID>
+                                        <Value>21-07-04 AS</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>duration</FieldID>
+                                        <Value>1 week</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>134,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
-                <BinderItem UUID="16052486-E95E-4AF1-9B84-0A8505D7AA2B" Type="Text" Created="2019-07-06 20:53:34 -0500" Modified="2019-10-20 13:21:00 -0500">
-                    <Title>1 just another builder</Title>
+                <BinderItem UUID="02165079-A83F-4BCC-97BE-151C027E51DD" Type="Folder" Created="2019-10-21 20:53:02 -0500" Modified="2019-10-21 20:53:05 -0500">
+                    <Title>Chapter 1</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
                         <StatusID>0</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <CustomMetaData>
-                            <MetaDataItem>
-                                <FieldID>location</FieldID>
-                                <Value>Galube'i</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>summary</FieldID>
-                                <Value>Alokai is coming of age in a relatively quiet island village on the border of the Empire. He was adopted by the island's Master Builder as an orphaned child and learned the trade of drafting and planning the larger buildings and settlements of the island. His father is respected amongst the people (and also a valuable/rare trade) and is given some latitude in engaging in eccentric hobbies like mechanical engineering. While during the day Alokai assists in what he feels is boring drafts of alehouses, inns, town squares, travel road infrastructure, during the evenings he indulges in building mechanical contraptions and sketching conceptual ideas.
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="16052486-E95E-4AF1-9B84-0A8505D7AA2B" Type="Text" Created="2019-07-06 20:53:34 -0500" Modified="2019-10-20 13:46:01 -0500">
+                            <Title>1 just another builder</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>location</FieldID>
+                                        <Value>Galube'i</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>summary</FieldID>
+                                        <Value>Alokai is coming of age in a relatively quiet island village on the border of the Empire. He was adopted by the island's Master Builder as an orphaned child and learned the trade of drafting and planning the larger buildings and settlements of the island. His father is respected amongst the people (and also a valuable/rare trade) and is given some latitude in engaging in eccentric hobbies like mechanical engineering. While during the day Alokai assists in what he feels is boring drafts of alehouses, inns, town squares, travel road infrastructure, during the evenings he indulges in building mechanical contraptions and sketching conceptual ideas.
 
 He is working on creating what would be the world of Tamareth's first Steam Engine.</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>purpose</FieldID>
-                                <Value>* Introduce Alokai
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>purpose</FieldID>
+                                        <Value>* Introduce Alokai
 * Establish boring life but special engineering skill
 * Show boringness of life
 * Show Alokai building on his own
 * Show Alokai's father being respected</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>primarycharacter</FieldID>
-                                <Value>Alokai</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>secondarycharacters</FieldID>
-                                <Value>Alokai's father</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>chapter</FieldID>
-                                <Value>1</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>when</FieldID>
-                                <Value>21-07-04 AS</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>duration</FieldID>
-                                <Value>1 week</Value>
-                            </MetaDataItem>
-                        </CustomMetaData>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>12739,0</TextSelection>
-                    </TextSettings>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>primarycharacter</FieldID>
+                                        <Value>Alokai</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>secondarycharacters</FieldID>
+                                        <Value>Alokai's father</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>chapter</FieldID>
+                                        <Value>1</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>when</FieldID>
+                                        <Value>21-07-04 AS</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>duration</FieldID>
+                                        <Value>1 week</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>17291,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
-                <BinderItem UUID="2791A7BB-02CC-477B-8C7F-3ECBF10906A1" Type="Text" Created="2019-07-06 21:04:18 -0500" Modified="2019-10-19 23:28:20 -0500">
-                    <Title>2 salt of tamereth</Title>
+                <BinderItem UUID="3FC5F3D9-5750-44EB-9BF9-28CE8ECE200F" Type="Folder" Created="2019-10-21 20:53:21 -0500" Modified="2019-10-21 20:53:22 -0500">
+                    <Title>Chapter 2</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
                         <StatusID>0</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <CustomMetaData>
-                            <MetaDataItem>
-                                <FieldID>location</FieldID>
-                                <Value>Vahky</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>summary</FieldID>
-                                <Value>Runa is coming of age as a slave in a forced labor unit of the Empire's military that shovels salt onto the conquered fields of its current enemy, the Tunen Kingdom. She had been a part of a Tunen region that was conquered by the Empire when she was a child and has grown into a quiet, distrustful, and hardened worker. A slavemaster with a particular reputation for cruelty, has made her life a living hell, pushing her to perform grueling tasks harder and harder or face cruel discipline.</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>purpose</FieldID>
-                                <Value>* Introduce Runa
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="2791A7BB-02CC-477B-8C7F-3ECBF10906A1" Type="Text" Created="2019-07-06 21:04:18 -0500" Modified="2019-10-19 23:28:20 -0500">
+                            <Title>2 salt of tamereth</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>location</FieldID>
+                                        <Value>Vahky</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>summary</FieldID>
+                                        <Value>Runa is coming of age as a slave in a forced labor unit of the Empire's military that shovels salt onto the conquered fields of its current enemy, the Tunen Kingdom. She had been a part of a Tunen region that was conquered by the Empire when she was a child and has grown into a quiet, distrustful, and hardened worker. A slavemaster with a particular reputation for cruelty, has made her life a living hell, pushing her to perform grueling tasks harder and harder or face cruel discipline.</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>purpose</FieldID>
+                                        <Value>* Introduce Runa
 * Show Runa being mistrustful of friends
 * Establish Runa as Cinderella story character (person out of place)
 * Introduce slavemaster as villainous
 * Show magical artifact as birthmark
 * Show Runa unknowingly using her abilities to avoid worst cruelty
 * Show Empire/Tunen conflict</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>primarycharacter</FieldID>
-                                <Value>Runa</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>secondarycharacters</FieldID>
-                                <Value>Slavemaster</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>chapter</FieldID>
-                                <Value>2</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>when</FieldID>
-                                <Value>21-07-04 AS</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>duration</FieldID>
-                                <Value>1 week</Value>
-                            </MetaDataItem>
-                        </CustomMetaData>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>22470,0</TextSelection>
-                    </TextSettings>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>primarycharacter</FieldID>
+                                        <Value>Runa</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>secondarycharacters</FieldID>
+                                        <Value>Slavemaster</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>chapter</FieldID>
+                                        <Value>2</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>when</FieldID>
+                                        <Value>21-07-04 AS</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>duration</FieldID>
+                                        <Value>1 week</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>22470,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
-                <BinderItem UUID="6C11C91F-02F5-48D9-AF1C-4755A6DC97EF" Type="Text" Created="2019-10-18 15:07:52 -0500" Modified="2019-10-18 15:08:41 -0500">
-                    <Title>3 awakening</Title>
+                <BinderItem UUID="3F16261F-C2D2-4229-98B7-C0F3D47543F4" Type="Folder" Created="2019-10-21 20:53:26 -0500" Modified="2019-10-21 20:53:29 -0500">
+                    <Title>Chapter 3</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
                         <StatusID>0</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
-                        <CustomMetaData>
-                            <MetaDataItem>
-                                <FieldID>summary</FieldID>
-                                <Value>Alokai uses his steam engine at a job site, and it explodes sending pieces of the magical artifact as shrapnel into his body.  Soon after recovering, he begins feeling connections to magic. He is sometimes able to perceive the roads by which magic travels - lines of connection between living and non-living things.</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>purpose</FieldID>
-                                <Value>* Find the magical artifact
-* Show magical disaster/foreshadowing that provokes journey
-* Show Alokai trying to fulfill his Father's legacy and failing (failed engine)</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>primarycharacter</FieldID>
-                                <Value>Alokai</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>secondarycharacters</FieldID>
-                                <Value>Alokai's father</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>location</FieldID>
-                                <Value>Galube'i
-Talnu Va'nua</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>duration</FieldID>
-                                <Value>1 week</Value>
-                            </MetaDataItem>
-                        </CustomMetaData>
                     </MetaData>
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="6C11C91F-02F5-48D9-AF1C-4755A6DC97EF" Type="Text" Created="2019-10-18 15:07:52 -0500" Modified="2019-10-21 23:16:20 -0500">
+                            <Title>3 awakening</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <CustomMetaData>
+                                    <MetaDataItem>
+                                        <FieldID>summary</FieldID>
+                                        <Value>Alokai uses his steam engine at a job site, and it explodes sending pieces of the magical artifact as shrapnel into his body.  Soon after recovering, he begins feeling connections to magic. He is sometimes able to perceive the roads by which magic travels - lines of connection between living and non-living things.</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>location</FieldID>
+                                        <Value>Galube'i
+Talnu Va'nua</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>purpose</FieldID>
+                                        <Value>* Find the magical artifact
+* Show magical disaster/foreshadowing that provokes journey
+* Show Alokai trying to fulfill his Father's legacy and failing (failed engine)</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>primarycharacter</FieldID>
+                                        <Value>Alokai</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>secondarycharacters</FieldID>
+                                        <Value>Alokai's father</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>chapter</FieldID>
+                                        <Value>3</Value>
+                                    </MetaDataItem>
+                                    <MetaDataItem>
+                                        <FieldID>duration</FieldID>
+                                        <Value>1 week</Value>
+                                    </MetaDataItem>
+                                </CustomMetaData>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8299,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
-                <BinderItem UUID="8537315A-D1E7-487D-8F10-2B8862D25556" Type="Text" Created="2019-10-18 15:02:03 -0500" Modified="2019-10-18 15:07:48 -0500">
+                <BinderItem UUID="8537315A-D1E7-487D-8F10-2B8862D25556" Type="Text" Created="2019-10-18 15:02:03 -0500" Modified="2019-10-21 20:41:43 -0500">
                     <Title>4 two feathers</Title>
                     <MetaData>
                         <LabelID>0</LabelID>
@@ -232,7 +291,7 @@ Talnu Va'nua</Value>
                         </CustomMetaData>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>313,0</TextSelection>
+                        <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="FFA8A745-ACE9-451A-92BC-33F3BC183D33" Type="Text" Created="2019-10-18 15:05:03 -0500" Modified="2019-10-18 15:07:42 -0500">
@@ -1404,7 +1463,7 @@ Wainonen</Value>
         </Collection>
         <Collection Type="Arbitrary" ID="DBCAA5F2-6DEF-4B79-B5CC-A3E793B8B73A" Color="0.992 0.973 0.769">
             <Title>Updated Documents</Title>
-            <BinderUUIDs>16052486-E95E-4AF1-9B84-0A8505D7AA2B,E9111B1B-2724-40AC-B6A0-235628E39D52,01C7A429-F3AB-4F6D-93FB-BED3D47B0FDF,40BB676A-6808-4970-9098-A19FC540CDFE,2DE45F80-2DAB-4E1D-AAC7-B65D3D84B93D</BinderUUIDs>
+            <BinderUUIDs>6C11C91F-02F5-48D9-AF1C-4755A6DC97EF</BinderUUIDs>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -1485,14 +1544,14 @@ Wainonen</Value>
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2011-09-28 07:03:24 -0500" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-10-21 01:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="-68" Date="2019-10-20 13:21:06 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2019-10-22 01:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="1671" Characters="9289" Date="2019-10-21 12:14:14 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2019-10-20 00:00:00 -0500">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>-68</DraftCharCount>
+    <RecentWritingHistory Date="2019-10-21 00:00:00 -0500">
+        <DraftWordCount>1671</DraftWordCount>
+        <DraftCharCount>9289</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>-22</OtherCharCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>48FE6035-EDAE-4650-B6FE-F2E0FD767457</TemplateFolderUUID>
     <BookmarksFolderUUID>68F7E0D0-DC09-4031-87BD-58176978E78D</BookmarksFolderUUID>
@@ -1505,6 +1564,7 @@ Wainonen</Value>
         <SyncItem ID="0F4AA525-607E-4210-9619-C186C498DDBB">31</SyncItem>
         <SyncItem ID="8537315A-D1E7-487D-8F10-2B8862D25556">36</SyncItem>
         <SyncItem ID="40BB676A-6808-4970-9098-A19FC540CDFE">33</SyncItem>
+        <SyncItem ID="B5EE4EDB-38CA-4070-8960-B3F61A98189C">47</SyncItem>
         <SyncItem ID="2B0F857A-EC65-41DD-BB90-EFAC600ED367">17</SyncItem>
         <SyncItem ID="5FCD2B50-6396-4183-8B70-77B6CEA255E5">2</SyncItem>
         <SyncItem ID="94CB0E39-A08D-431D-BFB1-EA936FB7075A">4</SyncItem>
@@ -1530,12 +1590,15 @@ Wainonen</Value>
         <SyncItem ID="AE8FB389-D8FD-4774-BE98-83193766DB7B">30</SyncItem>
         <SyncItem ID="01C7A429-F3AB-4F6D-93FB-BED3D47B0FDF">44</SyncItem>
         <SyncItem ID="6C11C91F-02F5-48D9-AF1C-4755A6DC97EF">35</SyncItem>
+        <SyncItem ID="3FC5F3D9-5750-44EB-9BF9-28CE8ECE200F">48</SyncItem>
+        <SyncItem ID="3F16261F-C2D2-4229-98B7-C0F3D47543F4">49</SyncItem>
         <SyncItem ID="F1C7D2DE-41F7-46FA-8410-89EBCCA2A89B">5</SyncItem>
         <SyncItem ID="973AD5E9-A7D5-4ADA-9458-134CDDCDF2BE">28</SyncItem>
         <SyncItem ID="48FE6035-EDAE-4650-B6FE-F2E0FD767457">21</SyncItem>
         <SyncItem ID="FDC764AD-FF8E-41DC-8F24-B7769FFB3510">29</SyncItem>
         <SyncItem ID="FFA8A745-ACE9-451A-92BC-33F3BC183D33">37</SyncItem>
         <SyncItem ID="93D80BAB-01CC-4DC2-909A-3739F707DB62">19</SyncItem>
+        <SyncItem ID="02165079-A83F-4BCC-97BE-151C027E51DD">46</SyncItem>
         <SyncItem ID="A359ABDE-AC1E-45B0-9845-24E692BBA6BE">27</SyncItem>
         <SyncItem ID="99AFEC00-B63B-4A36-9CF6-EB301037DA12">24</SyncItem>
         <SyncItem ID="22FC276E-2275-497F-B37B-F06EED47C3A4">16</SyncItem>
